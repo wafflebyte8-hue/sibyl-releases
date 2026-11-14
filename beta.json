@@ -1,0 +1,53 @@
+{
+ "versionCode": 37,
+ "versionName": "5.0 beta 3 patch 1",
+ "notes": "New Game: Start Game plays Sibyl near your rating, Play Coach, Advanced Options for a specific Elo, Play Bots opens its list and starts on tap. Online play, 397 bots, stronger Calculator, new boards and themes",
+ "assets": {
+  "forVersionCode": 37,
+  "version": 1004,
+  "files": [
+   {
+    "name": "index.html",
+    "url": "https://raw.githubusercontent.com/wafflebyte8-hue/sibyl-releases/dist/files/b4/index.html",
+    "sha256": "40d1d46389a09db4784ae9e93bfc92ff8a95c3acbbf82cf31183c68776b1598b",
+    "size": 308004
+   },
+   {
+    "name": "online.js",
+    "url": "https://raw.githubusercontent.com/wafflebyte8-hue/sibyl-releases/dist/files/b3/online.js",
+    "sha256": "e3b31397c66a1891d1682efc56509b76fbee69678d543ab177267491ed7d0ed9",
+    "size": 20451
+   },
+   {
+    "name": "bots.js",
+    "url": "https://raw.githubusercontent.com/wafflebyte8-hue/sibyl-releases/dist/files/b1/bots.js",
+    "sha256": "bccfd7a0a3870442ff01d8490308eaaf3ae4262c26df0ee8512310067563f074",
+    "size": 54815
+   },
+   {
+    "name": "portraits.js",
+    "url": "https://raw.githubusercontent.com/wafflebyte8-hue/sibyl-releases/dist/files/b1/portraits.js",
+    "sha256": "10dcd871a7ca2cf27fc4340e08fe4ebdb7ebd869d0e05399df5431d555352b1e",
+    "size": 318675
+   },
+   {
+    "name": "PORTRAITS-CREDITS.txt",
+    "url": "https://raw.githubusercontent.com/wafflebyte8-hue/sibyl-releases/dist/files/b1/PORTRAITS-CREDITS.txt",
+    "sha256": "102a94925071edee56852d0ed6c3d64068a03cc5c844c4b274c81fff3fda6f61",
+    "size": 7073
+   },
+   {
+    "name": "calculator.wasm",
+    "url": "https://raw.githubusercontent.com/wafflebyte8-hue/sibyl-releases/dist/files/b1/calculator.wasm",
+    "sha256": "f6aa2251967e3482ed4e505d29f7b189f103bf06bef9fa635e142b0351aad612",
+    "size": 14027088
+   },
+   {
+    "name": "worker.js",
+    "url": "https://raw.githubusercontent.com/wafflebyte8-hue/sibyl-releases/dist/files/b1/worker.js",
+    "sha256": "77697c0953985008aad746aa1a81fd50df984da3b84dbd943f10763cd0fd9754",
+    "size": 8697
+   }
+  ]
+ }
+}

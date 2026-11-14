@@ -1,0 +1,22 @@
+{
+ "versionCode": 37,
+ "versionName": "4.19",
+ "notes": "Fixes: More screen text sizes, readability on light themes, bigger tap targets",
+ "apk": {
+  "url": "https://raw.githubusercontent.com/wafflebyte8-hue/sibyl-releases/dist/Sibyl-37.apk",
+  "sha256": "477c4254776ab4b5b232228a19db59411982a1cb41a6095fa82319a8ab8ab97a",
+  "size": 60321641
+ },
+ "assets": {
+  "forVersionCode": 37,
+  "version": 1,
+  "files": [
+   {
+    "name": "index.html",
+    "url": "https://raw.githubusercontent.com/wafflebyte8-hue/sibyl-releases/dist/files/u1/index.html",
+    "sha256": "8ddf3faaf2512b01153d3167b452ce2bf9ef9bb34d4e5f53aeae9f3fba5092d1",
+    "size": 283929
+   }
+  ]
+ }
+}

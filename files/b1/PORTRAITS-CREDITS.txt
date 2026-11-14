@@ -1,0 +1,192 @@
+Portraits of the Legends and Creators bots
+=========================================
+
+Each portrait is an illustration painted by a program (cutout of the person, then repainted with brush strokes) from one photograph.
+The photographs come from Wikimedia Commons. Each illustration is a derivative of its photograph and is shared under the same licence as that photograph;
+where the photograph is CC BY or CC BY-SA, credit the photographer as listed below. The people shown are not affiliated with Sibyl and have not endorsed it.
+
+Agadmator
+   photo: Agadmator.jpg
+   by: Antonio Radić
+   licence: CC BY-SA 3.0
+   source: https://commons.wikimedia.org/wiki/File:Agadmator.jpg
+
+Alexander Alekhine
+   photo: Alexandre Alekhine 01.jpg
+   by: George Grantham Bain Collection (Library of Congress)
+   licence: Public domain
+   source: https://commons.wikimedia.org/wiki/File:Alexandre_Alekhine_01.jpg
+
+Alexandra Botez
+   photo: AlexandraBotez Trivia.png
+   by: Optic Gaming
+   licence: CC BY 3.0
+   source: https://commons.wikimedia.org/wiki/File:AlexandraBotez_Trivia.png
+
+Aman Hambleton
+   photo: Grandmaster Aman Hambleton (Feb 2023).jpg
+   by: AmanHambleton
+   licence: CC BY-SA 4.0
+   source: https://commons.wikimedia.org/wiki/File:Grandmaster_Aman_Hambleton_(Feb_2023).jpg
+
+Anatoly Karpov
+   photo: Anatoly Karpov 2017 april.jpg
+   by: Veni Markovski | Вени Марковски
+   licence: CC BY-SA 4.0
+   source: https://commons.wikimedia.org/wiki/File:Anatoly_Karpov_2017_april.jpg
+
+Andrea Botez
+   photo: Andrea Botez Twitchcon 2022 (3x4 cropped).jpg
+   by: MattKC
+   licence: CC BY-SA 4.0
+   source: https://commons.wikimedia.org/wiki/File:Andrea_Botez_Twitchcon_2022_(3x4_cropped).jpg
+
+Anna Cramling
+   photo: Anna Cramling 2021 DSC 1765 (cropped).jpg
+   by: Zquid
+   licence: CC BY-SA 4.0
+   source: https://commons.wikimedia.org/wiki/File:Anna_Cramling_2021_DSC_1765_(cropped).jpg
+
+Ben Finegold
+   photo: 2013 08 Ben Finegold (9430861911) (cropped).png
+   by: T.V.A.
+   licence: CC BY 2.0
+   source: https://commons.wikimedia.org/wiki/File:2013_08_Ben_Finegold_(9430861911)_(cropped).png
+
+Bobby Fischer
+   photo: Bobby Fischer 1972.jpg
+   by: Bert Verhoeff for Anefo
+   licence: CC0
+   source: https://commons.wikimedia.org/wiki/File:Bobby_Fischer_1972.jpg
+
+Boris Spassky
+   photo: Dhr. Boris Spassky, Bestanddeelnr 932-7320.jpg
+   by: Rob Bogaerts for Anefo
+   licence: CC0
+   source: https://commons.wikimedia.org/wiki/File:Dhr._Boris_Spassky,_Bestanddeelnr_932-7320.jpg
+
+Ding Liren
+   photo: Ding Liren at the 46th FIDE Chess Olympiad.jpg
+   by: TheBoburshokh
+   licence: CC BY 4.0
+   source: https://commons.wikimedia.org/wiki/File:Ding_Liren_at_the_46th_FIDE_Chess_Olympiad.jpg
+
+Emanuel Lasker
+   photo: Bundesarchiv Bild 102-00457, Emanuel Lasker.jpg
+   by: Unknown authorUnknown author
+   licence: CC BY-SA 3.0 de
+   source: https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_102-00457,_Emanuel_Lasker.jpg
+
+Eric Hansen
+   photo: Eric Hansen 2014 Iceland - Reykjavik Tournament (cropped).jpg
+   by: Piewalker
+   licence: CC BY-SA 4.0
+   source: https://commons.wikimedia.org/wiki/File:Eric_Hansen_2014_Iceland_-_Reykjavik_Tournament_(cropped).jpg
+
+Eric Rosen
+   photo: Eric Rosen.jpg
+   by: Eric Rosen
+   licence: CC0
+   source: https://commons.wikimedia.org/wiki/File:Eric_Rosen.jpg
+
+Fabiano Caruana
+   photo: Fabiano Caruana in 2025.jpg
+   by: Frans Peeters
+   licence: CC BY-SA 2.0
+   source: https://commons.wikimedia.org/wiki/File:Fabiano_Caruana_in_2025.jpg
+
+Garry Kasparov
+   photo: Garri Kasparow (18776605665) (cropped) 2.jpg
+   by: Fryta 73 from Strzegom
+   licence: CC BY-SA 2.0
+   source: https://commons.wikimedia.org/wiki/File:Garri_Kasparow_(18776605665)_(cropped)_2.jpg
+
+Hikaru Nakamura
+   photo: Hikaru Nakamura at the 2026 Naroditsky Memorial Rapid and Blitz (v2).jpg
+   by: ChessKelly
+   licence: CC BY 4.0
+   source: https://commons.wikimedia.org/wiki/File:Hikaru_Nakamura_at_the_2026_Naroditsky_Memorial_Rapid_and_Blitz_(v2).jpg
+
+Hou Yifan
+   photo: Hou Yifan (29762728494) (cropped).jpg
+   by: Andreas Kontokanis from Piraeus, Greece
+   licence: CC BY-SA 2.0
+   source: https://commons.wikimedia.org/wiki/File:Hou_Yifan_(29762728494)_(cropped).jpg
+
+José Raúl Capablanca
+   photo: José Raúl Capablanca 1931.jpg
+   by: AnonymousUnknown author (Keystone-France)
+   licence: Public domain
+   source: https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Ra%C3%BAl_Capablanca_1931.jpg
+
+Judit Polgar
+   photo: Judit Polgár 2013.jpg
+   by: This photo was taken by Przemysław JahrAutorem zdjęcia jest Przemysław JahrWykor
+   licence: CC BY-SA 3.0
+   source: https://commons.wikimedia.org/wiki/File:Judit_Polg%C3%A1r_2013.jpg
+
+Levy Rozman
+   photo: Levy Rozman at Collision 2024 (cropped).jpg
+   by: Collision Conf
+   licence: CC BY 2.0
+   source: https://commons.wikimedia.org/wiki/File:Levy_Rozman_at_Collision_2024_(cropped).jpg
+
+Magnus Carlsen
+   photo: Magnus Carlsen Tata 2023 - 71 (cropped v4).jpg
+   by: Frans Peeters Photography
+   licence: CC BY-SA 2.0
+   source: https://commons.wikimedia.org/wiki/File:Magnus_Carlsen_Tata_2023_-_71_(cropped_v4).jpg
+
+Mikhail Botvinnik
+   photo: Mikhail Botvinnik 1962.jpg
+   by: Harry Pot for Anefo ]]
+   licence: CC BY-SA 3.0 nl
+   source: https://commons.wikimedia.org/wiki/File:Mikhail_Botvinnik_1962.jpg
+
+Mikhail Tal
+   photo: Mikhail Tal 1962.jpg
+   by: Harry Pot for Anefo ]]
+   licence: CC BY-SA 3.0 nl
+   source: https://commons.wikimedia.org/wiki/File:Mikhail_Tal_1962.jpg
+
+Paul Morphy
+   photo: PaulCharlesMorphy.jpg
+   by: Unknown authorUnknown author
+   licence: Public domain
+   source: https://commons.wikimedia.org/wiki/File:PaulCharlesMorphy.jpg
+
+Simon Williams
+   photo: Simon Williams (born 1979) - Flickr image 31063871063.jpg
+   by: Flickr user Wolfgang Jekel
+   licence: CC BY 2.0
+   source: https://commons.wikimedia.org/wiki/File:Simon_Williams_(born_1979)_-_Flickr_image_31063871063.jpg
+
+Tigran Petrosian
+   photo: Petrosian 1962 (cropped).jpg
+   by: Harry Pot / Anefo
+   licence: CC0
+   source: https://commons.wikimedia.org/wiki/File:Petrosian_1962_(cropped).jpg
+
+Vasily Smyslov
+   photo: Interpolisschaaktoernooi Tilburg 1819 Smyslov aan zet, Bestanddeelnr 929-3630.jpg
+   by: Koen Suyk / Anefo
+   licence: CC0
+   source: https://commons.wikimedia.org/wiki/File:Interpolisschaaktoernooi_Tilburg_1819_Smyslov_aan_zet,_Bestanddeelnr_929-3630.jpg
+
+Viswanathan Anand
+   photo: Viswanathan Anand (2016) (cropped).jpeg
+   by: Wolfgang Jekel
+   licence: CC BY 2.0
+   source: https://commons.wikimedia.org/wiki/File:Viswanathan_Anand_(2016)_(cropped).jpeg
+
+Vladimir Kramnik
+   photo: Vladimir Kramnik 2, Candidates Tournament 2018.jpg
+   by: Vladimir Barskij
+   licence: CC BY-SA 3.0
+   source: https://commons.wikimedia.org/wiki/File:Vladimir_Kramnik_2,_Candidates_Tournament_2018.jpg
+
+Wilhelm Steinitz
+   photo: Steinitz, William-4 - DPLA - 9eeab9ac335135c24b69ab7e36fc5354 (cropped).jpg
+   by: Schumann, Fritz
+   licence: Public domain
+   source: https://commons.wikimedia.org/wiki/File:Steinitz,_William-4_-_DPLA_-_9eeab9ac335135c24b69ab7e36fc5354_(cropped).jpg
