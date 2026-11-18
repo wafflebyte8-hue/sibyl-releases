@@ -1,0 +1,65 @@
+{
+ "versionCode": 41,
+ "versionName": "5.4",
+ "notes": "Legion: castling (king on d or e, rooks in the corners). Home shows streak and strength once.",
+ "apk": {
+  "url": "https://raw.githubusercontent.com/wafflebyte8-hue/sibyl-releases/dist/Sibyl-41.apk",
+  "sha256": "b1792831e050b6d6ed7bcb5101e39a2e6b014c7270625900aa57eba0afe90355",
+  "size": 66074587
+ },
+ "assets": {
+  "forVersionCode": 41,
+  "version": 2,
+  "files": [
+   {
+    "name": "daily.js",
+    "url": "https://raw.githubusercontent.com/wafflebyte8-hue/sibyl-releases/dist/files/u2/daily.js",
+    "sha256": "a5467c64bd3a2063ded877d9ff76c209ee5949f10f5f2fd8884dad3e94b68325",
+    "size": 17340
+   },
+   {
+    "name": "i18n_ko.js",
+    "url": "https://raw.githubusercontent.com/wafflebyte8-hue/sibyl-releases/dist/files/u2/i18n_ko.js",
+    "sha256": "ba23d790b259737a8358d5460a599ce5ffee60b4ecbb2c023c0c4bb5c7d2c42b",
+    "size": 61008
+   },
+   {
+    "name": "i18n_mn.js",
+    "url": "https://raw.githubusercontent.com/wafflebyte8-hue/sibyl-releases/dist/files/u2/i18n_mn.js",
+    "sha256": "178c194c65dc73ddc5e1a001bcaa250f64b6090c4350e5e0be72e10c6082f23d",
+    "size": 75783
+   },
+   {
+    "name": "i18n_ru.js",
+    "url": "https://raw.githubusercontent.com/wafflebyte8-hue/sibyl-releases/dist/files/u2/i18n_ru.js",
+    "sha256": "3e747ddeded0074ae6102aabc1683feddf36c0caa667c3f22a0571cb1d63f885",
+    "size": 75898
+   },
+   {
+    "name": "i18n_zh.js",
+    "url": "https://raw.githubusercontent.com/wafflebyte8-hue/sibyl-releases/dist/files/u2/i18n_zh.js",
+    "sha256": "b4a4c3422c0aa0d0d845ab767203ef5100903c01361624a629601b393f9a859d",
+    "size": 53415
+   },
+   {
+    "name": "army.js",
+    "url": "https://raw.githubusercontent.com/wafflebyte8-hue/sibyl-releases/dist/files/u2/army.js",
+    "sha256": "8e3e5712dd40d3bc3b5855157eb11154f4e7e9f7fc2413e0d7607e8cfff85a5d",
+    "size": 15928
+   },
+   {
+    "name": "index.html",
+    "url": "https://raw.githubusercontent.com/wafflebyte8-hue/sibyl-releases/dist/files/u2/index.html",
+    "sha256": "17d479089ee80b8f5599425575df877411632e9adb434184acf6d88ee98d3a2d",
+    "size": 357163
+   },
+   {
+    "name": "legionrules.js",
+    "url": "https://raw.githubusercontent.com/wafflebyte8-hue/sibyl-releases/dist/files/u2/legionrules.js",
+    "sha256": "f0871df1073d3d77f8d80657b5c913a4b6094a9c187854f9c52b5223efa068a0",
+    "size": 17892
+   }
+  ]
+ },
+ "appVersion": "5.4"
+}
