@@ -1,0 +1,283 @@
+# w1	w2	gloss	headword	uses   (idioms: word pairs with their own meaning)
+zuda	zuma	a pawn storm + a central square + mobility	storm-hub	1354
+vuda	zuma	a pawn storm + a central square + an uncastled king	storm-hub	847
+zego	zaga	an uncastled king + a pawn move + mobility	king-center-pawn	416
+zigi	zaga	a pawn move + an uncastled king + mobility	pawn-king-center	347
+juga	jula	answering a check + a king move	parry-king-walk	323
+zigo	zaga	an uncastled king + a pawn move + mobility	king-center-pawn	301
+julo	jagu	development + an uncastled king	develop-king-center	298
+juga	jura	answering a check + a king move	parry-king-walk	276
+thoga	thegi	an uncastled king + mobility + a pawn storm	king-center-freedom	267
+vigu	thagu	an uncastled king + development + mobility	king-center-develop	259
+vegu	thagu	an uncastled king + mobility	king-center-freedom	197
+zogi	zega	a beginner's idea + a pawn storm + a pawn move	beginner-storm	195
+juga	juma	answering a check + a king move	parry-king-walk	183
+joru	zago	mobility + an uncastled king + a pawn move	freedom-king-center	171
+jida	jula	answering a check + a king move	parry-king-walk	158
+jiga	jula	answering a check + a king move	parry-king-walk	146
+vuda	zuda	a beginner's idea	beginner	145
+joga	jula	answering a check + a king move	parry-king-walk	144
+juga	juda	answering a check + a king move	parry-king-walk	140
+zugu	jara	a pawn break + a pawn storm + a central square	break-storm	138
+zigi	zega	a pawn move + a pawn storm + a 1500 player's idea	pawn-storm	136
+jeda	jula	a king move + answering a check + an active king	king-walk-parry	131
+jero	zage	development + a knight move + mobility	develop-knight	130
+zure	zura	a material deficit + a recapture + answering a check	deficit-recapture	122
+joga	jura	answering a check + a king move	parry-king-walk	121
+jega	jula	a king move + answering a check + an active king	king-walk-parry	121
+juge	juga	answering a check + a king move	parry-king-walk	118
+shoga	thagi	a pawn storm + an uncastled king + mobility	storm-king-center	116
+zago	shada	an uncastled king + mobility + a pawn move	king-center-freedom	115
+volu	shagu	development + a bishop move + an uncastled king	develop-bishop	110
+jiga	jura	an active king + a king move + answering a check	king-march-king-walk	107
+shagu	jume	development + a knight move + an uncastled king	develop-knight	103
+shagu	vedu	development + a bishop move + an uncastled king	develop-bishop	102
+jeda	juma	a king move + answering a check + an active king	king-walk-parry	99
+zoge	zega	a beginner's idea + a pawn storm + a central square	beginner-storm	98
+zure	shalu	a recapture + grabbing a loose piece + a capture	recapture-grab	97
+joda	jula	answering a check + a king move	parry-king-walk	96
+zuri	shelu	a recapture + a capture + a central square	recapture-capture	95
+julo	shagu	a beginner's idea	beginner	93
+zure	jaru	a recapture + a capture + a knight move	recapture-capture	92
+thagu	thidu	a beginner's idea + development + an uncastled king	beginner-develop	86
+zuri	zure	a material deficit	deficit	85
+zuro	thilu	a recapture + doubled pawns + a capture	recapture-doubled	85
+zuri	jalu	a central square + a recapture + a knight move	hub-recapture	85
+shelu	zuro	a recapture + a capture + a central square	recapture-capture	84
+jido	thagu	a knight move + development + an uncastled king	knight-develop	84
+zuro	shelu	a capture + a central square + a recapture	capture-hub	82
+jida	juma	a king move + answering a check	king-walk-parry	81
+shoga	jura	answering a check + a king move	parry-king-walk	80
+juda	jula	pressure on my king + a king move + an active king	danger-king-walk	79
+jori	jadu	mobility + a long diagonal + grabbing a loose piece	freedom-diagonal	79
+shada	juma	answering a check + a king move	parry-king-walk	78
+jalu	zage	development + a knight move + an uncastled king	develop-knight	78
+shiga	jula	a king move + answering a check	king-walk-parry	77
+zago	shama	mobility + an uncastled king	freedom-king-center	76
+juga	joga	pressure on my king + answering a check	danger-parry	76
+zuli	shelu	a capture + a recapture + a central square	capture-recapture	75
+shodu	shagu	an uncastled king + development + mobility	king-center-develop	74
+sheda	jula	answering a check + a king move	parry-king-walk	74
+zulo	shelu	a recapture + guarding a weak point + a central square	recapture-guard	73
+zuri	shalu	grabbing a loose piece + a recapture + a capture	grab-recapture	73
+jaru	vura	a central square + a recapture + a knight move	hub-recapture	73
+shega	jula	a king move + answering a check	king-walk-parry	72
+shiga	jura	answering a check + a king move	parry-king-walk	71
+juda	juga	pressure on my king + answering a check + a king move	danger-parry	71
+jida	jura	an active king + answering a check + a king move	king-march-parry	71
+zure	thelu	grabbing a loose piece + a capture + a recapture	grab-capture	70
+shelu	zulo	doubled pawns + a recapture + guarding a weak point	doubled-recapture	70
+joda	jura	answering a check + a king move	parry-king-walk	69
+joda	juma	a king move + answering a check	king-walk-parry	68
+vuga	zuma	a pawn storm + a central square + mobility	storm-hub	67
+juge	jula	answering a check + a king move	parry-king-walk	67
+juda	jura	a king move + play on the kingside + an active king	king-walk-kingside	65
+shada	juda	answering a check + a king move + pressure on my king	parry-king-walk	65
+shugu	vige	a pawn move + an uncastled king	pawn-king-center	65
+shuga	shugu	a pawn move + an uncastled king	pawn-king-center	65
+jaru	zura	a central square + a capture + a recapture	hub-capture	65
+zure	sharu	a recapture + grabbing a loose piece	recapture-grab	64
+shuga	juga	answering a check + a king move + pressure on my king	parry-king-walk	64
+shida	jula	a king move + answering a check	king-walk-parry	64
+thugu	shagu	a pawn storm + an uncastled king + a central square	storm-king-center	63
+joga	juga	answering a check + a king move	parry-king-walk	61
+jedo	shagu	a knight move + development + an uncastled king	knight-develop	61
+voge	joru	an uncastled king + mobility + a pawn move	king-center-freedom	61
+shaga	jula	answering a check + a king move	parry-king-walk	61
+joga	juma	a king move + answering a check	king-walk-parry	61
+joda	thagi	a 2000 player's idea + an uncastled king + mobility	expert-king-center	60
+jalo	zage	development + a knight move + an uncastled king	develop-knight	60
+zuro	zuri	doubled pawns + a material deficit + a passed pawn	doubled-deficit	60
+jega	jura	an active king + answering a check + a king move	king-march-parry	60
+vura	shalu	grabbing a loose piece + a recapture + pressure on my king	grab-recapture	59
+thago	jero	development + a knight move + a beginner's idea	develop-knight	58
+vuga	thegi	a beginner's idea + a pawn storm + mobility	beginner-storm	58
+jaru	zora	a capture + a recapture	capture-recapture	58
+jega	juma	an active king + answering a check + a king move	king-march-parry	58
+shimu	zulo	doubled pawns + a pawn storm + a recapture	doubled-storm	57
+shoga	jula	answering a check + a king move	parry-king-walk	57
+shemu	zulo	a recapture + a central square + a capture	recapture-hub	57
+zuli	thelu	a recapture + doubled pawns + an isolated pawn	recapture-doubled	57
+jugi	joga	a king move + answering a check	king-walk-parry	57
+zuri	thelu	a capture + grabbing a loose piece + a recapture	capture-grab	57
+shoga	thegi	an uncastled king + mobility + a pawn move	king-center-freedom	56
+shuga	jura	answering a check + a king move	parry-king-walk	56
+shega	jura	an active king + answering a check + a king move	king-march-parry	56
+jugi	juga	a king move + answering a check	king-walk-parry	56
+juda	juma	worry about losing + pressure on my king + a king move	worry-danger	56
+thelu	zuro	a recapture	recapture	55
+shada	jula	an active king + answering a check + a king move	king-march-parry	55
+joda	juga	pressure on my king + answering a check + a king move	danger-parry	55
+zulo	shemu	a central square + a capture + a recapture	hub-capture	55
+jara	zugu	a pawn break + a pawn storm + a central square	break-storm	55
+sheda	juma	answering a check + a king move	parry-king-walk	55
+sharu	zora	grabbing a loose piece + a recapture	grab-recapture	54
+zigu	thagu	an uncastled king + development + a slow, classical patience	king-center-develop	54
+sheda	juda	answering a check + pressure on my king + a king move	parry-danger	53
+zure	jalu	a capture + a central square + a recapture	capture-hub	53
+zuro	shilu	a central square + a recapture + a capture	hub-recapture	53
+juma	juga	worry about losing + pressure on my king + a sacrifice	worry-danger	52
+jeda	juda	an active king + pressure on my king + answering a check	king-march-danger	52
+zulo	shilu	a recapture + a capture + a central square	recapture-capture	52
+zure	thalu	a long diagonal + grabbing a loose piece + a bishop move	diagonal-grab	52
+joda	shago	a strong player's idea + mobility + an uncastled king	mastery-freedom	52
+jaru	juda	answering a check + development	parry-develop	51
+zuga	joru	a strong player's idea + mobility + an uncastled king	mastery-freedom	51
+shuga	jula	answering a check + a king move	parry-king-walk	51
+zure	shelu	a capture + a recapture	capture-recapture	51
+jodo	thagu	development + a knight move + an uncastled king	develop-knight	51
+jema	juma	a king move + answering a check + an active king	king-walk-parry	51
+jalu	zure	a central square + a knight move + a recapture	hub-knight	51
+zuli	thilu	doubled pawns + a recapture + a capture	doubled-recapture	50
+juge	juma	answering a check + a king move	parry-king-walk	50
+zuri	jaru	a recapture + a capture + a knight move	recapture-capture	50
+jiga	juma	a king move + answering a check	king-walk-parry	49
+vure	shelu	grabbing a loose piece + a recapture	grab-recapture	49
+thago	thadi	development + a 1500 player's idea + mobility	develop-club	49
+joge	juga	a king move + answering a check	king-walk-parry	49
+zuro	thelu	a recapture + a capture + grabbing a loose piece	recapture-capture	48
+juge	joga	answering a check	parry	48
+jima	jula	answering a check + a king move + an active king	parry-king-walk	48
+shelu	zuru	a recapture + a capture + a central square	recapture-capture	48
+shega	juma	a king move + answering a check	king-walk-parry	48
+thidi	shedo	a full board + going forward + a pawn break	middlegame-advance	48
+thido	thedo	a beginner's idea	beginner	48
+vure	zura	escaping an attack + a material deficit + grabbing a loose piece	escape-deficit	48
+zuli	shimu	doubled pawns + a pawn storm + a recapture	doubled-storm	47
+thido	thedu	a knight move + a full board + development	knight-middlegame	47
+zuro	thimu	a capture + grabbing a loose piece + a pawn move	capture-grab	46
+thede	shoga	castling	castle	46
+zura	tharu	grabbing a loose piece + a long diagonal + a bishop move	grab-diagonal	46
+vidi	shadu	a full board + a discovered attack + queens still on the board	middlegame-discovery	46
+vuri	jalu	a central square + grabbing a loose piece + a capture	hub-grab	46
+shoda	jula	answering a check + a king move	parry-king-walk	46
+thigi	shedo	a long classical game + a 1500 player's idea + closed files	classical-club	46
+jugi	jega	an active king + a king move + answering a check	king-march-king-walk	46
+shilu	zulo	a capture + a pawn move + a recapture	capture-pawn	45
+thada	juda	answering a check + a king move	parry-king-walk	45
+vido	shadu	a pawn break + queens still on the board + a full board	break-queens	45
+jude	juda	answering a check + a king move	parry-king-walk	45
+jada	juma	an active king + a king move + answering a check	king-march-king-walk	45
+vomu	jaga	development + an uncastled king	develop-king-center	45
+shadu	vigi	a battery + play away from the kingside + play on the queenside	battery-queenside	45
+shuga	juda	pressure on my king + worry about losing + a king move	danger-worry	45
+jaro	zage	a knight move + development + an uncastled king	knight-develop	45
+vuri	shelu	grabbing a loose piece + a capture + a recapture	grab-capture	45
+jude	jula	answering a check	parry	45
+thigi	shadu	queens still on the board + a full board + a pawn break	queens-middlegame	44
+shoda	thagi	a 2000 player's idea + mobility + a blitz reflex	expert-freedom	44
+juge	juda	a king move + answering a check	king-walk-parry	44
+thigi	shido	a game she goes on to lose + not a 1500 idea + a human's taste	doom-human	44
+jugi	jiga	an active king + a king move + answering a check	king-march-king-walk	43
+thedu	thigi	a bullet game + a pawn move + a full board	bullet-pawn	43
+jude	juga	a king move + answering a check	king-walk-parry	43
+thogi	shedo	staying at home + a knight on the rim + closed files	home-rim	43
+zura	zure	a material deficit + a bishop move + answering a check	deficit-bishop	43
+thelu	zulo	a pawn move + a recapture + a pawn break	pawn-recapture	43
+joda	shagi	a strong player's idea + mobility + an uncastled king	mastery-freedom	43
+shida	jura	pressure on my king + answering a check + a king move	danger-parry	42
+zuli	themu	an isolated pawn + doubled pawns + a capture	isolani-doubled	42
+jalo	juda	answering a check + development	parry-develop	42
+jalu	juda	development + answering a check	develop-parry	42
+zuli	thomu	making luft + doubled pawns + a recapture	luft-doubled	42
+shamu	zado	a threat + a knight move + mobility	threat-knight	42
+zuri	zura	a material deficit + answering a check	deficit-parry	42
+thoge	shugu	a pawn move + an uncastled king	pawn-king-center	42
+jude	juma	answering a check + a king move	parry-king-walk	42
+shoda	jura	a king move + answering a check	king-walk-parry	41
+zuro	shimu	a pawn storm + a recapture + a central square	storm-recapture	41
+jida	juda	a king move + answering a check	king-walk-parry	41
+thigi	shidi	castling	castle	41
+jema	jula	answering a check + a king move	parry-king-walk	41
+shemo	vige	a 1500 player's idea + queens still on the board + development	club-queens	41
+zulo	shimu	a pawn storm + a recapture + a pawn move	storm-recapture	41
+vigi	thadu	queens still on the board + development	queens-develop	41
+shama	zagu	mobility + a slow, classical patience + an uncastled king	freedom-patience	40
+thadu	vigi	play on the queenside + play away from the kingside + a cramped position	queenside-cramp	40
+shedo	thidi	a 1500 player's idea + a rook lift + offering a queen trade	club-lift	40
+thido	shidi	a passed pawn + opposite-side castling + going forward	runner-race	40
+julu	jagu	development + an uncastled king	develop-king-center	40
+jodi	juga	an active king + a king move + answering a check	king-march-king-walk	40
+vada	juma	answering a check + a king move	parry-king-walk	40
+zuro	thomu	doubled pawns + a recapture + a capture	doubled-recapture	40
+shuro	zura	a rook lift + an open file + a rook move	lift-file	40
+juge	jiga	a king move + answering a check	king-walk-parry	40
+jaro	juga	guarding a weak point + answering a check	guard-parry	40
+juga	joda	pressure on my king + answering a check + a king move	danger-parry	39
+shida	juma	answering a check + a king move	parry-king-walk	39
+thuri	tharu	a queen move + grabbing a loose piece + mobility	queen-grab	39
+jima	juma	answering a check + a king move	parry-king-walk	39
+thagu	shidu	an uncastled king + mobility + a strong player's idea	king-center-freedom	39
+jode	juga	an active king + a king move + answering a check	king-march-king-walk	39
+thelu	zuru	a recapture + guarding a weak point + a capture	recapture-guard	39
+thogi	thedu	a knight move + a full board + a pawn break	knight-middlegame	39
+thado	jalu	a knight move + development + mobility	knight-develop	39
+thaga	jula	a king move + answering a check	king-walk-parry	39
+vada	juda	pressure on my king + a king move + answering a check	danger-king-walk	38
+vuri	shalu	grabbing a loose piece + a long diagonal + a capture	grab-diagonal	38
+thido	shedi	a knight on the rim + going forward + ignoring an attack	rim-advance	38
+thedo	shido	a blockade	blockade	38
+zugu	shagu	a pawn break + an uncastled king + a pawn storm	break-king-center	38
+vido	thedo	a rook lift + facing a stronger opponent + an isolated pawn	lift-underdog	38
+shugu	voge	a pawn move + an uncastled king + mobility	pawn-king-center	38
+shogi	shidi	staying at home + worry about losing + no rook move	home-worry	37
+vure	jaru	grabbing a loose piece + play in the center + a recapture	grab-center	37
+shelu	zuli	play in the center + a capture + a central square	center-capture	37
+vedi	shadu	a knight move + the bishop pair + a full board	knight-bishop-pair	37
+shimu	zuro	a pawn storm + doubled pawns + a central square	storm-doubled	37
+zulo	themu	an isolated pawn + a passed pawn + a capture	isolani-runner	37
+thigi	thadu	a full board + play away from the kingside + staying at home	middlegame-home	37
+zure	tharu	a long diagonal + a bishop move + a recapture	diagonal-bishop	37
+shaga	juda	a king move + an active king + answering a check	king-walk-king-march	37
+zige	jaru	escaping an attack + a retreat + a knight on the rim	escape-retreat	37
+jaro	vade	escaping an attack + a retreat	escape-retreat	37
+jalu	vura	a central square + a recapture + a knight move	hub-recapture	37
+thige	shedi	castling + a king move	castle-king-walk	37
+jode	jula	answering a check	parry	37
+shedo	shodo	a beginner's idea + not a 1500 idea	beginner	37
+shoda	juga	answering a check + a king move	parry-king-walk	37
+jeda	jura	an active king + a king move + answering a check	king-march-king-walk	37
+thedu	thige	play away from the kingside + a quiet move + a blitz reflex	quiet-reflex	37
+shumo	shedo	doubled pawns + a pawn storm + a central square	doubled-storm	37
+shido	themo	a bishop move + development + mobility	bishop-develop	37
+shedo	shagu	a knight move + development + an uncastled king	knight-develop	37
+thedo	shigi	a pin + a pawn break + a long manoeuvring phase	pin-break	36
+thumo	shadu	doubled pawns + a pawn storm + a recapture	doubled-storm	36
+shigi	shado	mobility + development + an uncastled king	freedom-develop	36
+thure	shelu	a long diagonal + a queen move + grabbing a loose piece	diagonal-queen	36
+zuri	themu	a capture + grabbing a loose piece + a recapture	capture-grab	36
+shalu	zora	grabbing a loose piece + play on the queenside + a capture	grab-queenside	36
+vomo	shemu	en passant + doubled pawns + a pawn break	passant-doubled	36
+thigo	thedo	no queen move + a full board + development	middlegame-develop	36
+vuri	jaru	a central square + a recapture + play in the center	hub-recapture	36
+shema	juga	worry about losing + pressure on my king + a king move	worry-danger	36
+shoga	juga	answering a check + a king move	parry-king-walk	36
+vilu	shagu	a bishop move + a 2000 player's idea + development	bishop-expert	36
+shegi	shido	a strong player's idea + staying at home + a human's taste	mastery-home	36
+vigo	themo	a game she goes on to lose + a human's taste + staying at home	doom-human	36
+zuri	shilu	a capture + a recapture + doubled pawns	capture-recapture	36
+thido	shige	castling + no check + no threat	castle	36
+vimu	shagu	a bishop move + play on the queenside + development	bishop-queenside	36
+shago	jero	development + a knight move + mobility	develop-knight	36
+thedo	thidi	a rook lift + an outpost	lift-outpost	36
+shalu	zuro	a pawn move + a capture + a passed pawn	pawn-capture	35
+joda	juda	a king move + answering a check	king-walk-parry	35
+vura	zura	a material deficit + pressure on my king + answering a check	deficit-danger	35
+thoge	shido	an endgame + a knight on the rim + queens off the board	endgame-rim	35
+thige	shedo	worry about losing + a knight on the rim + queens off the board	worry-rim	35
+shidi	thedu	queens still on the board + a knight move + a full board	queens-knight	35
+thido	shedo	a human's taste + a blockade + trapping a piece	human-blockade	35
+thidi	shoge	castling	castle	35
+thegi	shido	an open file + a rook move + going forward	file-rook	35
+shadu	thige	play away from the kingside + a human's taste + play in the center	human-center	35
+zuli	thimu	making luft + an isolated pawn + doubled pawns	luft-isolani	35
+vuro	shalu	a central square + grabbing a loose piece + a recapture	hub-grab	35
+vido	thedu	a human's taste + a full board + a pawn break	human-middlegame	35
+vuri	zure	a material deficit	deficit	35
+thedo	shige	no check + no threat + limiting my own pieces	stiff	35
+shaga	juma	an active king + a king move + answering a check	king-march-king-walk	35
+thige	jugu	an uncastled king + a pawn move + mobility	king-center-pawn	35
+jiru	zago	mobility + an uncastled king + development	freedom-king-center	35
+vedu	shagu	a pawn break + an uncastled king	break-king-center	35
+vure	shalu	a recapture + grabbing a loose piece + a capture	recapture-grab	35
+thagu	shamu	a threat + development + a knight move	threat-develop	35

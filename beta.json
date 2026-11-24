@@ -1,0 +1,137 @@
+{
+ "versionCode": 37,
+ "versionName": "5.0 beta 5 patch 2",
+ "notes": "Sibyl 5.0 beta 5 patch 2: accounts and friends, Chess960, a second server (Cloudflare) with live sockets, queue times, faster server fallback, coach rematch and Chess960 fixes",
+ "assets": {
+  "forVersionCode": 37,
+  "version": 1009,
+  "files": [
+   {
+    "name": "index.html",
+    "url": "https://raw.githubusercontent.com/wafflebyte8-hue/sibyl-releases/dist/files/b9/index.html",
+    "sha256": "fa140bbd18532b4cfd7b951d25a9f89ad2e8f621b80ad02d362f3c04490e7768",
+    "size": 339807
+   },
+   {
+    "name": "online.js",
+    "url": "https://raw.githubusercontent.com/wafflebyte8-hue/sibyl-releases/dist/files/b9/online.js",
+    "sha256": "20f3a9ee544b5318c4afce0eed671daee1c3ed05d44c17d70423ed40ad7ce5aa",
+    "size": 27563
+   },
+   {
+    "name": "bots.js",
+    "url": "https://raw.githubusercontent.com/wafflebyte8-hue/sibyl-releases/dist/files/b5/bots.js",
+    "sha256": "d2acebc0cef0a784930c6bb2a2d6f1f39b78fd8c736bf7206f61be163496076a",
+    "size": 134225
+   },
+   {
+    "name": "portraits.js",
+    "url": "https://raw.githubusercontent.com/wafflebyte8-hue/sibyl-releases/dist/files/b6/portraits.js",
+    "sha256": "4793cc706f1902885783ae12829655d31a21b01fca2220a0ced394dbfd072e84",
+    "size": 366303
+   },
+   {
+    "name": "PORTRAITS-CREDITS.txt",
+    "url": "https://raw.githubusercontent.com/wafflebyte8-hue/sibyl-releases/dist/files/b6/PORTRAITS-CREDITS.txt",
+    "sha256": "9e32ce93e154c539fce03ed4464369831f81dd99030fed5fba42e8b3476b5fb9",
+    "size": 7423
+   },
+   {
+    "name": "calculator.wasm",
+    "url": "https://raw.githubusercontent.com/wafflebyte8-hue/sibyl-releases/dist/files/b5/calculator.wasm",
+    "sha256": "f6aa2251967e3482ed4e505d29f7b189f103bf06bef9fa635e142b0351aad612",
+    "size": 14027088
+   },
+   {
+    "name": "worker.js",
+    "url": "https://raw.githubusercontent.com/wafflebyte8-hue/sibyl-releases/dist/files/b6/worker.js",
+    "sha256": "f284b573e3b55507658528b1c05504bce29e86f2e893aaecc338a48dcc4e7b92",
+    "size": 8697
+   },
+   {
+    "name": "coaches.js",
+    "url": "https://raw.githubusercontent.com/wafflebyte8-hue/sibyl-releases/dist/files/b9/coaches.js",
+    "sha256": "e974ccae801da03ccb0e20a3473a6f1400e3156767d5790fc76f6cc8410c8eec",
+    "size": 38256
+   },
+   {
+    "name": "remote.js",
+    "url": "https://raw.githubusercontent.com/wafflebyte8-hue/sibyl-releases/dist/files/b9/remote.js",
+    "sha256": "3278891a6ec2019e79a88c128f7838986176af3e80744dfe6de8f955ea4598af",
+    "size": 5774
+   },
+   {
+    "name": "bots_art.js",
+    "url": "https://raw.githubusercontent.com/wafflebyte8-hue/sibyl-releases/dist/files/b6/bots_art.js",
+    "sha256": "98ae8e2d739fb2c2d1c7988d04c0bb374858f8bb376c5a49bfa78b10db1e02b2",
+    "size": 2097107
+   },
+   {
+    "name": "sibyl.wasm",
+    "url": "https://raw.githubusercontent.com/wafflebyte8-hue/sibyl-releases/dist/files/b5/sibyl.wasm",
+    "sha256": "ab7092a72c3cc13e1ef5e1af09dce0d801121fa45707483bd742c0c8b6831f17",
+    "size": 591304
+   },
+   {
+    "name": "sibyl-nosimd.wasm",
+    "url": "https://raw.githubusercontent.com/wafflebyte8-hue/sibyl-releases/dist/files/b5/sibyl-nosimd.wasm",
+    "sha256": "df6835b21242b150e022e65a1dce3b63b99e59f5f4dd4aba28cc6014b8a0aa7c",
+    "size": 575949
+   },
+   {
+    "name": "mind.wasm",
+    "url": "https://raw.githubusercontent.com/wafflebyte8-hue/sibyl-releases/dist/files/b5/mind.wasm",
+    "sha256": "efe2940f98ba06d9c5a819227441d632160fbb0ff80deabc369279237f87ffa5",
+    "size": 39130593
+   },
+   {
+    "name": "lexicon.txt",
+    "url": "https://raw.githubusercontent.com/wafflebyte8-hue/sibyl-releases/dist/files/b5/lexicon.txt",
+    "sha256": "db65df62a948767d2843a3a8e32db1eb801ef301c08b4fd3a00d9920c762b9f6",
+    "size": 59632
+   },
+   {
+    "name": "idioms.txt",
+    "url": "https://raw.githubusercontent.com/wafflebyte8-hue/sibyl-releases/dist/files/b5/idioms.txt",
+    "sha256": "345ab37d079f6487a10436a389f0e0c1e506bcef24dc920702894be008cfb692",
+    "size": 20401
+   },
+   {
+    "name": "reviewer2.js",
+    "url": "https://raw.githubusercontent.com/wafflebyte8-hue/sibyl-releases/dist/files/b8/reviewer2.js",
+    "sha256": "b7660b1f9d0055e901776aed6b171626efae36347510de5c5c170f67d27dbb21",
+    "size": 5397
+   },
+   {
+    "name": "reviewer2_d16.json",
+    "url": "https://raw.githubusercontent.com/wafflebyte8-hue/sibyl-releases/dist/files/b8/reviewer2_d16.json",
+    "sha256": "7270a25e7dbc88a29d528c9779bd7cba3d368105cd67a0dbc7446b1c91fb7a3b",
+    "size": 188692
+   },
+   {
+    "name": "reviewer2_d14.json",
+    "url": "https://raw.githubusercontent.com/wafflebyte8-hue/sibyl-releases/dist/files/b8/reviewer2_d14.json",
+    "sha256": "abaaf147e0e3a47de57f4622aac2f9d6f93192528d243df8e35d41822348f5d1",
+    "size": 211935
+   },
+   {
+    "name": "servers.js",
+    "url": "https://raw.githubusercontent.com/wafflebyte8-hue/sibyl-releases/dist/files/b9/servers.js",
+    "sha256": "1532a3920ecb40c704b0ccbb76303c3bd5c46c05f12918a66723123e6a825238",
+    "size": 3980
+   },
+   {
+    "name": "accounts.js",
+    "url": "https://raw.githubusercontent.com/wafflebyte8-hue/sibyl-releases/dist/files/b9/accounts.js",
+    "sha256": "67db5d7d6afb7da4073e51bc07b0e5b288605be663d28fc2c703c54266155723",
+    "size": 13900
+   },
+   {
+    "name": "chess960.js",
+    "url": "https://raw.githubusercontent.com/wafflebyte8-hue/sibyl-releases/dist/files/b9/chess960.js",
+    "sha256": "250136609d63c099a45cc6990cded862677ee8bcaeadd47b4e82282f4bc2d839",
+    "size": 15440
+   }
+  ]
+ }
+}

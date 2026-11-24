@@ -1,0 +1,626 @@
+# id	word	gloss	headword	uses   (3rd edition: 74 concepts, 240000 positions)
+0	zara	play away from the kingside + a queen move + a knight on the rim + a battery	queen-rim	210
+1	vara	a battery + an open file + a rook move + play on the queenside	battery-file	348
+2	thara	a battery + a rook move + an open file + a queen move	battery-rook	468
+3	shara	escaping an attack + a queen move + a battery	escape-queen	560
+4	jara	escaping an attack + a queen move + a battery	escape-queen	813
+5	zera	the seventh rank + a single saving move + play on the queenside + an even trade	seventh-only-move	476
+6	vera	a queen move + an even trade + escaping an attack + a capture	queen-trade	931
+7	thera	a queen move + an even trade + escaping an attack	queen-trade	849
+8	shera	a queen move + escaping an attack + a battery	queen-escape	1027
+9	jera	a queen move + escaping an attack + a battery	queen-escape	965
+10	zira	a capture + a single saving move + play on the queenside + grabbing a loose piece	capture-only-move	989
+11	vira	an even trade + a capture + a queen move	trade-capture	1375
+12	thira	an even trade + a queen move + an invasion of the enemy camp + a capture	trade-queen	916
+13	shira	a queen move + escaping an attack	queen-escape	826
+14	jira	a queen move + escaping an attack	queen-escape	816
+15	zora	a capture + grabbing a loose piece + a single saving move + a recapture	capture-grab	1448
+16	vora	an even trade + a capture + a queen move + a long diagonal	trade-capture	1291
+17	thora	grabbing a loose piece + a capture + an even trade + a queen move	grab-capture	998
+18	shora	grabbing a loose piece + a capture + a single saving move + play on the kingside	grab-capture	851
+19	jora	escaping an attack + a single saving move + a queen move + answering a check	escape-only-move	494
+20	zura	grabbing a loose piece + a capture + a recapture + a single saving move	grab-capture	2710
+21	vura	grabbing a loose piece + a capture + a recapture + a single saving move	grab-capture	2021
+22	thura	grabbing a loose piece + a capture + a recapture	grab-capture	1069
+23	shura	grabbing a loose piece + a capture + answering a check + pressure on my king	grab-capture	657
+24	jura	answering a check + a king move	parry-king-walk	1827
+25	zala	a queen move + play away from the kingside + a knight on the rim + a battery	queen-rim	367
+26	vala	a battery + a queen move + a castled king + play away from the kingside	battery-queen	597
+27	thala	a rook move + a battery + an open file + play away from the kingside	rook-battery	648
+28	shala	a rook move + an open file + a battery + play away from the kingside	rook-file	596
+29	jala	escaping an attack	escape	515
+30	zela	a threat + a check + an open file + a queen move	threat-check	656
+31	vela	a queen move + a rook move + a check + play away from the kingside	queen-rook	1000
+32	thela	the engine's taste + a queen move + a battery + a castled king	machine-queen	1020
+33	shela	a battery + an open file + a queen move + a rook move	battery-file	944
+34	jela	a battery + a rook move + an open file + escaping an attack	battery-rook	732
+35	zila	a rook move + play on the queenside + an open file + grabbing a loose piece	rook-queenside	969
+36	vila	a queen move + a rook move + a capture + an open file	queen-rook	1455
+37	thila	a queen move + an even trade + piece play + a capture	queen-trade	1219
+38	shila	a battery + guarding a weak point + a castled king + a queen move	battery-guard	944
+39	jila	a battery + guarding a weak point + a rook move + a queen move	battery-guard	651
+40	zola	grabbing a loose piece + a rook move + a capture + an open file	grab-rook	1108
+41	vola	a capture + grabbing a loose piece + a recapture	capture-grab	1548
+42	thola	grabbing a loose piece + a queen move + a capture + an even trade	grab-queen	1172
+43	shola	guarding a weak point + pressure on my king + a sacrifice + a queen move	guard-danger	790
+44	jola	answering a check + a king move	parry-king-walk	552
+45	zula	grabbing a loose piece + a capture + a recapture + a single saving move	grab-capture	739
+46	vula	a capture + grabbing a loose piece + a single saving move + pressure on my king	capture-grab	987
+47	thula	pressure on my king + a single saving move + a capture + grabbing a loose piece	danger-only-move	782
+48	shula	answering a check + pressure on my king + grabbing a loose piece	parry-danger	826
+49	jula	answering a check + a king move	parry-king-walk	3571
+50	zama	a fianchetto + play on the queenside + play away from the kingside + a quiet move	fianchetto-queenside	563
+51	vama	the engine's taste + play away from the kingside + starting something new + play on the queenside	machine-initiative	975
+52	thama	limiting my own pieces + play away from the kingside + piece play + a king move	stiff-pieces	950
+53	shama	an endgame + a king move + a retreat + answering a check	endgame-king-walk	733
+54	jama	a retreat + a castled king + limiting my own pieces + escaping an attack	retreat-castled	538
+55	zema	a 2000 player's idea + an experienced player's idea + play away from the kingside + a battery	expert-experience	659
+56	vema	a rook move + an open file + a battery + play on the queenside	rook-file	1113
+57	thema	a battery + castling + an open file + no knight move	battery-castle	1192
+58	shema	a castled king + pressure on my king + limiting my own pieces + a king move	castled-danger	1078
+59	jema	answering a check + a castled king + a king move + piece play	parry-castled	902
+60	zima	a rook move + an open file + a rook lift + play away from the kingside	rook-file	637
+61	vima	a castled king + an open file + a rook move + a queen move	castled-file	1056
+62	thima	a queen move + a castled king + a battery + a retreat	queen-castled	1206
+63	shima	a fianchetto + pressure on my king + a battery + calm pawns	fianchetto-danger	1148
+64	jima	answering a check + worry about losing + piece play + a king move	parry-worry	830
+65	zoma	an open file + a rook move + a rook lift + play away from the kingside	file-rook	622
+66	voma	a rook lift + a rook move + a sacrifice + an open file	lift-rook	929
+67	thoma	a blockade + pressure on my king + a queen move + a sacrifice	blockade-danger	959
+68	shoma	pressure on my king + the rim + a king move + worry about losing	danger-rim	873
+69	joma	answering a check + a king move	parry-king-walk	821
+70	zuma	a pawn storm + a central square + an uncastled king + mobility	storm-hub	2671
+71	vuma	a single saving move + pressure on my king + answering a check + a capture	only-move-danger	622
+72	thuma	pressure on my king + answering a check	danger-parry	642
+73	shuma	answering a check + pressure on my king	parry-danger	1021
+74	juma	answering a check + a king move	parry-king-walk	3422
+75	zada	a fianchetto + play on the queenside + play away from the kingside + a quiet move	fianchetto-queenside	820
+76	vada	castling + a king move + play away from the kingside + play on the queenside	castle-king-walk	1575
+77	thada	a king move + an endgame + piece play + a quiet move	king-walk-endgame	1338
+78	shada	a king move + an endgame + an active king + answering a check	king-walk-endgame	1334
+79	jada	an active king + answering a check + a king move + a quiet move	king-march-parry	766
+80	zeda	a fianchetto + play on the queenside + play away from the kingside + no free material	fianchetto-queenside	699
+81	veda	the rim + castling + starting something new + play on the queenside	rim-castle	1322
+82	theda	a king move + worry about losing + a quiet move + calm pawns	king-walk-worry	1727
+83	sheda	a king move + an active king + worry about losing + answering a check	king-walk-king-march	1989
+84	jeda	an active king + a king move + answering a check	king-march-king-walk	1454
+85	zida	play away from the kingside + play on the queenside	queenside	507
+86	vida	the rim + worry about losing + calm pawns + staying at home	rim-worry	1022
+87	thida	the rim + worry about losing + a king move + a fianchetto	rim-worry	1428
+88	shida	a fianchetto + a king move + answering a check	fianchetto-king-walk	1840
+89	jida	a king move + an active king + answering a check	king-walk-king-march	1481
+90	zoda	queens off the board + play away from the kingside + the engine's taste + worry about losing	queenless-machine	413
+91	voda	worry about losing + a retreat	worry-retreat	843
+92	thoda	the rim + worry about losing + a fianchetto + a retreat	rim-worry	1149
+93	shoda	a fianchetto + a king move + pressure on my king + answering a check	fianchetto-king-walk	1520
+94	joda	a king move + answering a check	king-walk-parry	1632
+95	zuda	a pawn storm + a central square + an uncastled king + mobility	storm-hub	1850
+96	vuda	a pawn storm + a central square + mobility + an uncastled king	storm-hub	1494
+97	thuda	answering a check + pressure on my king	parry-danger	745
+98	shuda	answering a check + a king move	parry-king-walk	1537
+99	juda	answering a check	parry	3563
+100	zaga	an uncastled king + a pawn move + mobility + play away from the kingside	king-center-pawn	2227
+101	vaga	castling + a king move + play away from the kingside + starting something new	castle-king-walk	1354
+102	thaga	an endgame + a king move + queens off the board + an active king	endgame-king-walk	1116
+103	shaga	an active king + a king move + an endgame + queens off the board	king-march-king-walk	1018
+104	jaga	an active king + a king move + a long manoeuvring phase + queens off the board	king-march-king-walk	572
+105	zega	an uncastled king + a beginner's idea + a pawn storm + a pawn move	king-center-beginner	1378
+106	vega	starting something new + staying at home + a quiet move + no free material	initiative-home	1598
+107	thega	the rim + starting something new + no threat + a quiet move	rim-initiative	1822
+108	shega	a king move + an endgame + queens off the board + an active king	king-walk-endgame	2009
+109	jega	a king move + an active king + an endgame + queens off the board	king-walk-king-march	1292
+110	ziga	play on the queenside + play away from the kingside + starting something new + worry about losing	queenside-initiative	722
+111	viga	no threat + staying at home + a quiet move + worry about losing	home-quiet	1291
+112	thiga	the rim + a quiet move + starting something new + no free material	rim-quiet	1703
+113	shiga	a king move + an endgame + an active king + a quiet move	king-walk-endgame	2093
+114	jiga	a king move + an active king + an endgame + answering a check	king-walk-king-march	1814
+115	zoga	worry about losing + play away from the kingside + pressure on my king + play on the queenside	worry-danger	630
+116	voga	worry about losing + staying at home + starting something new + a quiet move	worry-home	1113
+117	thoga	an uncastled king + staying at home + no threat + starting something new	king-center-home	1598
+118	shoga	castling + a king move + answering a check + a quiet move	castle-king-walk	2145
+119	joga	a king move + castling + answering a check	king-walk-castle	2359
+120	zuga	worry about losing + pressure on my king + answering a check + a king move	worry-danger	455
+121	vuga	worry about losing + answering a check + a king move	worry-parry	1074
+122	thuga	answering a check + a king move	parry-king-walk	1340
+123	shuga	answering a check + a king move	parry-king-walk	2194
+124	juga	answering a check + a king move	parry-king-walk	4394
+125	zare	play on the queenside + a mating blow + play away from the kingside	queenside-mate	167
+126	vare	play away from the kingside + a rook move + play on the queenside + an open file	rook-queenside	233
+127	thare	a queen move + the seventh rank + an even trade + escaping an attack	queen-seventh	266
+128	share	a queen move + escaping an attack	queen-escape	305
+129	jare	escaping an attack	escape	345
+130	zere	play on the queenside + the seventh rank + a capture + an invasion of the enemy camp	queenside-seventh	511
+131	vere	an even trade + a queen move + an invasion of the enemy camp + a capture	trade-queen	792
+132	there	an even trade + a queen move + an invasion of the enemy camp + piece play	trade-queen	804
+133	shere	escaping an attack + an even trade + a queen move	escape-trade	661
+134	jere	escaping an attack	escape	510
+135	zire	a single saving move + an even trade + a capture + an invasion of the enemy camp	only-move-trade	974
+136	vire	an even trade + a capture + an invasion of the enemy camp	trade-capture	1339
+137	thire	an even trade + an invasion of the enemy camp + a capture + escaping an attack	trade-invasion	1129
+138	shire	a threat + an invasion of the enemy camp + piece play + a queen move	threat-invasion	855
+139	jire	escaping an attack + a queen move	escape-queen	500
+140	zore	a capture + a recapture + grabbing a loose piece	capture-recapture	1405
+141	vore	a capture + grabbing a loose piece	capture-grab	1593
+142	thore	an invasion of the enemy camp + a capture + grabbing a loose piece	invasion-capture	1338
+143	shore	play on the kingside + a check + a threat + a capture	kingside-check	914
+144	jore	pressure on my king + a queen move + play on the kingside + a check	danger-queen	420
+145	zure	a capture + a recapture + grabbing a loose piece + a material deficit	capture-recapture	3252
+146	vure	a capture + grabbing a loose piece + a recapture	capture-grab	2124
+147	thure	grabbing a loose piece + a capture + a recapture	grab-capture	1152
+148	shure	grabbing a loose piece + a capture + a long diagonal + a recapture	grab-capture	513
+149	jure	a sacrifice + answering a check + the engine's taste	sacrifice-parry	194
+150	zale	a knight on the rim + play on the queenside + play away from the kingside	rim-queenside	410
+151	vale	an open file + a rook move + the engine's taste + play away from the kingside	file-rook	672
+152	thale	an open file + a rook move + a strong player's idea + an experienced player's idea	file-rook	697
+153	shale	a rook move + an open file + the engine's taste + play away from the kingside	rook-file	670
+154	jale	escaping an attack + piece play	escape-pieces	758
+155	zele	a rook move + an open file + play away from the kingside + play on the queenside	rook-file	687
+156	vele	an even trade + a queen move + a rook move + an open file	trade-queen	1265
+157	thele	an even trade + a queen move + a castled king + an open file	trade-queen	1416
+158	shele	an open file + a rook move + the engine's taste + a castled king	file-rook	1297
+159	jele	escaping an attack + piece play	escape-pieces	1045
+160	zile	a capture + play away from the kingside + grabbing a loose piece + play on the queenside	capture-grab	1003
+161	vile	an even trade + a capture + an invasion of the enemy camp + grabbing a loose piece	trade-capture	2000
+162	thile	an even trade + a castled king + a queen move + an invasion of the enemy camp	trade-castled	2031
+163	shile	a castled king + a rook move + an open file + the engine's taste	castled-rook	1557
+164	jile	escaping an attack + a queen move + piece play	escape-queen	989
+165	zole	a capture + grabbing a loose piece	capture-grab	1204
+166	vole	a capture + grabbing a loose piece + an even trade	capture-grab	2016
+167	thole	a capture + an even trade + grabbing a loose piece + a queen move	capture-trade	2008
+168	shole	a sacrifice + a castled king + a queen move + a check	sacrifice-castled	1218
+169	jole	limiting my own pieces + a retreat + pressure on my king + a queen move	stiff-retreat	650
+170	zule	a recapture + a capture + grabbing a loose piece + doubled pawns	recapture-capture	1463
+171	vule	a recapture + a capture + grabbing a loose piece	recapture-capture	1317
+172	thule	a capture + a single saving move + grabbing a loose piece + a recapture	capture-only-move	857
+173	shule	a single saving move + a sacrifice + pressure on my king + the engine's taste	only-move-sacrifice	510
+174	jule	answering a check + a king move	parry-king-walk	452
+175	zame	play on the queenside + play away from the kingside + a rook move + a quiet move	queenside-rook	610
+176	vame	an open file + a rook move + play on the queenside + starting something new	file-rook	1370
+177	thame	a rook move + an open file + piece play + starting something new	rook-file	1549
+178	shame	a retreat + an open file + calm pawns + a rook move	retreat-file	1130
+179	jame	escaping an attack + piece play	escape-pieces	843
+180	zeme	material advantage + play on the queenside + play away from the kingside + a rook move	plenty-queenside	979
+181	veme	the engine's taste + a rook move + an open file + a free hand	machine-rook	2089
+182	theme	an open file + castling + a rook move + the engine's taste	file-castle	2403
+183	sheme	a castled king + a rook move + an open file + the engine's taste	castled-rook	2054
+184	jeme	a retreat + escaping an attack + piece play + a queen move	retreat-escape	1483
+185	zime	the engine's taste + more space + queens off the board + play on the queenside	machine-space	1283
+186	vime	the engine's taste + a castled king + pieces already out + castling	machine-castled	2396
+187	thime	the engine's taste + a queen move + an open file + a battery	machine-queen	2775
+188	shime	a battery + a queen move + limiting my own pieces + a castled king	battery-queen	2319
+189	jime	escaping an attack + a queen move + piece play + a quiet move	escape-queen	1468
+190	zome	doubled pawns + an isolated pawn + a recapture + a capture	doubled-isolani	1260
+191	vome	the engine's taste + an even trade + a free hand + pieces already out	machine-trade	2243
+192	thome	a castled king + an even trade + pieces already out + the engine's taste	castled-trade	2415
+193	shome	a sacrifice + worry about losing + a queen move + pressure on my king	sacrifice-worry	1811
+194	jome	offering a queen trade + worry about losing + piece play + play on the kingside	queen-trade-worry	1176
+195	zume	a recapture + a pawn move + doubled pawns + an isolated pawn	recapture-pawn	923
+196	vume	a recapture + a capture + grabbing a loose piece	recapture-capture	1254
+197	thume	a sacrifice + pressure on my king + the engine's taste + an even trade	sacrifice-danger	942
+198	shume	pressure on my king + worry about losing + a sacrifice + answering a check	danger-worry	786
+199	jume	answering a check + a king move	parry-king-walk	728
+200	zade	play on the queenside + play away from the kingside + a quiet move	queenside-quiet	962
+201	vade	a rook move + an open file + play on the queenside + starting something new	rook-file	2051
+202	thade	many good options + a rook move + starting something new + a quiet move	options-rook	2169
+203	shade	a long manoeuvring phase + queens off the board + a castled king + many good options	manoeuvre-queenless	1563
+204	jade	a retreat + limiting my own pieces + a castled king + starting something new	retreat-stiff	936
+205	zede	play away from the kingside + play on the queenside + many good options + starting something new	queenside-options	1282
+206	vede	many good options + play on the queenside + a free hand + no free material	options-queenside	2963
+207	thede	castling + no free material + a free hand + a quiet move	castle-free-hand	3906
+208	shede	a quiet move + calm pawns + starting something new + no free material	quiet-initiative	3419
+209	jede	an experienced player's idea + starting something new + a quiet move + no free material	experience-initiative	1975
+210	zide	play on the queenside + play away from the kingside + a pawn move + a free hand	queenside-pawn	1399
+211	vide	many good options + no free material + a free hand + worry about losing	options-free-hand	2907
+212	thide	worry about losing + castling + no free material + a free hand	worry-castle	3683
+213	shide	worry about losing + a quiet move + no free material + a battery	worry-quiet	3685
+214	jide	castling + a quiet move + starting something new + calm pawns	castle-quiet	2194
+215	zode	an isolated pawn + a pawn move + a passed pawn + play away from the kingside	isolani-pawn	1019
+216	vode	worry about losing + a pawn break + pieces already out + a free hand	worry-break	2082
+217	thode	worry about losing + the rim + no free material + a free hand	worry-rim	2747
+218	shode	worry about losing + no free material + starting something new + a quiet move	worry-initiative	2863
+219	jode	castling + play on the kingside + worry about losing + a king move	castle-kingside	1997
+220	zude	an isolated pawn + a pawn move + doubled pawns + a pawn break	isolani-pawn	490
+221	vude	an isolated pawn + a sacrifice + worry about losing + a pawn break	isolani-sacrifice	1142
+222	thude	worry about losing + a sacrifice + play away from the queenside	worry-sacrifice	1269
+223	shude	worry about losing + the engine's taste + a sacrifice + pressure on my king	worry-machine	1284
+224	jude	answering a check + a king move	parry-king-walk	1084
+225	zage	play on the queenside + development + an uncastled king + play away from the kingside	queenside-develop	1271
+226	vage	many good options + starting something new + a rook move + play on the queenside	options-initiative	1395
+227	thage	a rook move + an open file + queens off the board + many good options	rook-file	1253
+228	shage	a castled king + a long manoeuvring phase + many good options + a rook move	castled-manoeuvre	831
+229	jage	a long manoeuvring phase + many good options + a strong player's idea + an experienced player's idea	manoeuvre-options	479
+230	zege	play on the queenside + many good options + play away from the kingside + a fianchetto	queenside-options	1380
+231	vege	no free material + many good options + a quiet move + starting something new	options-quiet	2976
+232	thege	starting something new + many good options + a quiet move + no free material	initiative-options	3298
+233	shege	queens off the board + many good options + starting something new + a quiet move	queenless-options	2543
+234	jege	a long manoeuvring phase + an experienced player's idea + starting something new + many good options	manoeuvre-experience	1421
+235	zige	play away from the kingside + play on the queenside + a pawn move + starting something new	queenside-pawn	1465
+236	vige	starting something new + no free material + a quiet move + staying at home	initiative-quiet	3217
+237	thige	a quiet move + many good options + no free material + starting something new	quiet-options	3787
+238	shige	castling + many good options + a quiet move + starting something new	castle-options	3677
+239	jige	castling + starting something new + a quiet move + a king move	castle-initiative	2086
+240	zoge	a pawn move + play away from the kingside + staying at home + starting something new	pawn-home	1287
+241	voge	a quiet move + starting something new + no free material + many good options	quiet-initiative	2709
+242	thoge	starting something new + worry about losing + a quiet move + no free material	initiative-worry	3361
+243	shoge	castling + starting something new + many good options + a quiet move	castle-initiative	3383
+244	joge	a king move + play on the kingside + starting something new + many good options	king-walk-kingside	2096
+245	zuge	no rook move + a pawn move + closed files + worry about losing	pawn-worry	665
+246	vuge	worry about losing + answering a check + a king move + starting something new	worry-parry	1565
+247	thuge	worry about losing + answering a check + a king move + starting something new	worry-parry	1889
+248	shuge	a king move + answering a check + worry about losing + a quiet move	king-walk-parry	1879
+249	juge	a king move + answering a check	king-walk-parry	1832
+250	zari	play on the queenside + play away from the kingside + a check + confidence of winning	queenside-check	220
+251	vari	a threat + a check + a rook move + an invasion of the enemy camp	threat-check	250
+252	thari	an open file + a rook move + a queen move + a check	file-rook	267
+253	shari	escaping an attack + a queen move	escape-queen	346
+254	jari	escaping an attack + a queen move	escape-queen	1036
+255	zeri	the seventh rank + an invasion of the enemy camp + grabbing a loose piece + confidence of winning	seventh-invasion	358
+256	veri	the seventh rank + confidence of winning + grabbing a loose piece + an invasion of the enemy camp	seventh-hope	676
+257	theri	an even trade + an invasion of the enemy camp + a check + a threat	trade-invasion	682
+258	sheri	an even trade + a check + an invasion of the enemy camp + escaping an attack	trade-check	672
+259	jeri	escaping an attack + a queen move	escape-queen	934
+260	ziri	play on the queenside + an invasion of the enemy camp + a capture + grabbing a loose piece	queenside-invasion	579
+261	viri	an even trade + an invasion of the enemy camp + confidence of winning + a capture	trade-invasion	958
+262	thiri	a threat + an invasion of the enemy camp + an even trade + a single saving move	threat-invasion	886
+263	shiri	a threat + an invasion of the enemy camp + a check + the seventh rank	threat-invasion	828
+264	jiri	guarding a weak point + escaping an attack + a queen move	guard-escape	632
+265	zori	a capture + a recapture + grabbing a loose piece	capture-recapture	823
+266	vori	a capture + an invasion of the enemy camp + confidence of winning + an even trade	capture-invasion	1027
+267	thori	an invasion of the enemy camp + a check + confidence of winning + a capture	invasion-check	944
+268	shori	a check + a rook move + a threat + an invasion of the enemy camp	check-rook	768
+269	jori	a sacrifice + a long diagonal + a queen move + a single saving move	sacrifice-diagonal	572
+270	zuri	a recapture + a capture + grabbing a loose piece + a single saving move	recapture-capture	2244
+271	vuri	a capture + grabbing a loose piece + a recapture	capture-grab	1523
+272	thuri	a capture + grabbing a loose piece + a recapture + a single saving move	capture-grab	849
+273	shuri	grabbing a loose piece + a capture + a rook lift + a recapture	grab-capture	467
+274	juri	a sacrifice + a rook lift + pressure on my king + a check	sacrifice-lift	226
+275	zali	play on the queenside + a knight on the rim + play away from the kingside	queenside-rim	500
+276	vali	a rook move + an open file + the engine's taste + limiting my own pieces	rook-file	897
+277	thali	an open file + a rook move + calm pawns + piece play	file-rook	892
+278	shali	limiting my own pieces + material advantage + calm pawns + a bishop move	stiff-plenty	869
+279	jali	escaping an attack	escape	1185
+280	zeli	play on the queenside + a threat + play away from the kingside + confidence of winning	queenside-threat	686
+281	veli	a threat + an invasion of the enemy camp + a rook move + an open file	threat-invasion	1519
+282	theli	the bishop pair + an even trade + an open file + an invasion of the enemy camp	bishop-pair-trade	1703
+283	sheli	limiting my own pieces + piece play + a rook move + an open file	stiff-pieces	1609
+284	jeli	escaping an attack	escape	1467
+285	zili	a capture + an even trade + play away from the kingside + play on the queenside	capture-trade	973
+286	vili	an even trade + an invasion of the enemy camp + a capture + a threat	trade-invasion	1887
+287	thili	an even trade + an invasion of the enemy camp + a sacrifice + a threat	trade-invasion	2121
+288	shili	an exposed enemy king + an even trade + a queen move + a rook move	hunt-trade	1775
+289	jili	escaping an attack + piece play	escape-pieces	1237
+290	zoli	doubled pawns + a capture + a recapture + a pawn move	doubled-capture	1309
+291	voli	a capture + an even trade + an invasion of the enemy camp + a free hand	capture-trade	1932
+292	tholi	an invasion of the enemy camp + a capture + an even trade + a threat	invasion-capture	2070
+293	sholi	a sacrifice + an exposed enemy king + a check + a threat	sacrifice-hunt	1432
+294	joli	an exposed enemy king + guarding a weak point + a threat + a check	hunt-guard	761
+295	zuli	doubled pawns + a pawn move + a recapture + a capture	doubled-pawn	2357
+296	vuli	doubled pawns + a capture + a recapture + a pawn move	doubled-capture	1675
+297	thuli	the engine's taste + a capture + play on the kingside + grabbing a loose piece	machine-capture	1025
+298	shuli	the engine's taste + a single saving move + a check + a threat	machine-only-move	594
+299	juli	a single saving move + the engine's taste + a sacrifice + an exposed enemy king	only-move-machine	297
+300	zami	play on the queenside + play away from the kingside	queenside	683
+301	vami	an open file + a rook move + many good options + play on the queenside	file-rook	1501
+302	thami	queens off the board + an endgame + a rook move + an open file	queenless-endgame	1859
+303	shami	a long manoeuvring phase + an experienced player's idea + an open file + a rook move	manoeuvre-experience	1567
+304	jami	a knight on the rim + a strong player's idea + an experienced player's idea + escaping an attack	rim-mastery	1214
+305	zemi	play on the queenside + play away from the kingside + a free hand	queenside-free-hand	921
+306	vemi	an open file + a free hand + a rook move + play on the queenside	file-free-hand	2414
+307	themi	limiting my own pieces + a rook move + an open file + a free hand	stiff-rook	3188
+308	shemi	an open file + a rook move + a castled king + piece play	file-rook	3054
+309	jemi	a retreat + escaping an attack + calm pawns + no free material	retreat-escape	2205
+310	zimi	an isolated pawn + more space + a passed pawn + doubled pawns	isolani-space	1420
+311	vimi	a free hand + the engine's taste + an even trade	free-hand-machine	3076
+312	thimi	a free hand + the engine's taste + an even trade + a castled king	free-hand-machine	3688
+313	shimi	a free hand + piece play + the king stays put + an even trade	free-hand-pieces	3198
+314	jimi	escaping an attack + piece play + play on the kingside	escape-pieces	1914
+315	zomi	doubled pawns + an isolated pawn + a passed pawn + a pawn move	doubled-isolani	1768
+316	vomi	doubled pawns + more space + pieces already out + a free hand	doubled-space	3058
+317	thomi	the engine's taste + a free hand + limiting my own pieces + pieces already out	machine-free-hand	3282
+318	shomi	a threat + a free hand + the king stays put + play on the kingside	threat-free-hand	2645
+319	jomi	play off-center + play on the kingside + a threat + escaping an attack	flank-kingside	1309
+320	zumi	a pawn move + doubled pawns + a recapture + an isolated pawn	pawn-doubled	1576
+321	vumi	doubled pawns + an isolated pawn + a pawn break + a recapture	doubled-isolani	1995
+322	thumi	doubled pawns + a threat + a pawn break + pieces already out	doubled-threat	1522
+323	shumi	the engine's taste + play on the kingside + a sacrifice + pressure on my king	machine-kingside	902
+324	jumi	play on the kingside + pressure on my king + a single saving move + answering a check	kingside-danger	424
+325	zadi	play on the queenside + play away from the kingside + a quiet move	queenside-quiet	842
+326	vadi	an open file + a rook move + many good options + play on the queenside	file-rook	1850
+327	thadi	a rook move + an open file + many good options + starting something new	rook-file	2386
+328	shadi	a rook move + a castled king + an open file + starting something new	rook-castled	2009
+329	jadi	a castled king + an experienced player's idea + limiting my own pieces + starting something new	castled-experience	1184
+330	zedi	play on the queenside + play away from the kingside + starting something new + no free material	queenside-initiative	1344
+331	vedi	a free hand + starting something new + no free material + castling	free-hand-initiative	3608
+332	thedi	no free material + starting something new + a quiet move + castling	initiative-quiet	5022
+333	shedi	limiting my own pieces + starting something new + a quiet move + no free material	stiff-initiative	4661
+334	jedi	an experienced player's idea + starting something new + a quiet move + a free hand	experience-initiative	2839
+335	zidi	play on the queenside + a passed pawn + an isolated pawn + a castled king	queenside-runner	1710
+336	vidi	a free hand + no free material + starting something new + a quiet move	free-hand-initiative	4183
+337	thidi	no free material + castling + a free hand + starting something new	castle-free-hand	5672
+338	shidi	no free material + a quiet move + starting something new + a free hand	quiet-initiative	5639
+339	jidi	a knight move + play on the kingside + starting something new + a quiet move	knight-kingside	3081
+340	zodi	a pawn move + a pawn break + an isolated pawn + a passed pawn	pawn-break	1568
+341	vodi	a pawn break + a pawn move + an isolated pawn + a free hand	break-pawn	3359
+342	thodi	no free material + a free hand + a pawn break + worry about losing	free-hand-break	4421
+343	shodi	play on the kingside + no free material + a quiet move + worry about losing	kingside-quiet	4083
+344	jodi	play on the kingside + a knight move + starting something new + no free material	kingside-knight	2334
+345	zudi	a pawn move + an isolated pawn + a pawn break + doubled pawns	pawn-isolani	749
+346	vudi	a pawn break + a pawn move + a passed pawn	break-pawn	1657
+347	thudi	a pawn break + a pawn move + a pawn storm + no free material	break-pawn	1735
+348	shudi	making luft + play on the kingside + a pawn break + no free material	luft-kingside	1347
+349	judi	play on the kingside + answering a check + a king move + a quiet move	kingside-parry	794
+350	zagi	play on the queenside + play away from the kingside + many good options + a quiet move	queenside-options	806
+351	vagi	many good options + play on the queenside + development + starting something new	options-queenside	1237
+352	thagi	a 2000 player's idea + many good options + starting something new + a quiet move	expert-options	1525
+353	shagi	an experienced player's idea + a knight move + starting something new + no free material	experience-knight	945
+354	jagi	an experienced player's idea + limiting my own pieces + a castled king + a knight move	experience-stiff	472
+355	zegi	play on the queenside + play away from the kingside + many good options + a quiet move	queenside-options	1589
+356	vegi	many good options + starting something new + no free material + a quiet move	options-initiative	3113
+357	thegi	many good options + starting something new + no free material + a quiet move	options-initiative	4203
+358	shegi	an experienced player's idea + starting something new + many good options + a quiet move	experience-initiative	3058
+359	jegi	an experienced player's idea + a castled king + starting something new + a quiet move	experience-castled	1566
+360	zigi	a pawn move + play away from the kingside + a pawn storm + an uncastled king	pawn-storm	2273
+361	vigi	no free material + starting something new + a quiet move + many good options	initiative-quiet	4079
+362	thigi	many good options + starting something new + no free material + a quiet move	options-initiative	5180
+363	shigi	starting something new + many good options + a quiet move + no free material	initiative-options	4742
+364	jigi	an experienced player's idea + starting something new + play on the kingside + a quiet move	experience-initiative	2289
+365	zogi	a pawn move + play away from the kingside + a pawn storm + a quiet move	pawn-storm	1663
+366	vogi	a pawn move + a quiet move + no free material + starting something new	pawn-quiet	3343
+367	thogi	staying at home + a quiet move + no free material + starting something new	home-quiet	4229
+368	shogi	starting something new + a quiet move + no free material + staying at home	initiative-quiet	3904
+369	jogi	play on the kingside + the rim + many good options + starting something new	kingside-rim	1971
+370	zugi	a pawn move + a pawn break + no rook move + a quiet move	pawn-break	704
+371	vugi	a pawn move + starting something new + no rook move + a quiet move	pawn-initiative	1674
+372	thugi	a pawn move + staying at home + no rook move + a quiet move	pawn-home	2171
+373	shugi	answering a check + a king move + play on the kingside + starting something new	parry-king-walk	1739
+374	jugi	a king move + answering a check	king-walk-parry	1239
+375	zaro	a mating blow + play on the queenside + a check + play away from the kingside	mate-queenside	325
+376	varo	the seventh rank + a rook move + an open file + a check	seventh-rook	466
+377	tharo	an open file + escaping an attack	file-escape	533
+378	sharo	escaping an attack	escape	760
+379	jaro	escaping an attack	escape	2612
+380	zero	a threat + a mating blow + an invasion of the enemy camp + a check	threat-mate	466
+381	vero	an invasion of the enemy camp + the seventh rank + a check + a rook move	invasion-seventh	866
+382	thero	the seventh rank + an invasion of the enemy camp + a check + confidence of winning	seventh-invasion	1085
+383	shero	escaping an attack	escape	1351
+384	jero	escaping an attack	escape	2025
+385	ziro	confidence of winning + a threat + an invasion of the enemy camp + a bishop move	hope-threat	487
+386	viro	an invasion of the enemy camp + confidence of winning + the seventh rank + a threat	invasion-hope	883
+387	thiro	an invasion of the enemy camp + a check + a threat + the seventh rank	invasion-check	1065
+388	shiro	an invasion of the enemy camp + a check + a threat + an exposed enemy king	invasion-check	1250
+389	jiro	guarding a weak point + a single saving move + escaping an attack + a check	guard-only-move	1249
+390	zoro	doubled pawns + a capture + confidence of winning + a recapture	doubled-capture	611
+391	voro	an invasion of the enemy camp + confidence of winning + a check + a threat	invasion-hope	959
+392	thoro	an invasion of the enemy camp + confidence of winning + a threat + a check	invasion-hope	1130
+393	shoro	a check + an invasion of the enemy camp + a threat + a single saving move	check-invasion	1155
+394	joro	a rook lift + a threat + a single saving move + a check	lift-threat	855
+395	zuro	a recapture + a capture + doubled pawns + a pawn move	recapture-capture	2348
+396	vuro	a capture + a recapture + a single saving move + confidence of winning	capture-recapture	1265
+397	thuro	a mating blow + a capture + confidence of winning + a check	mate-capture	919
+398	shuro	a mating blow + a check + a single saving move + a rook lift	mate-check	662
+399	juro	a rook lift + a check + a rook move + a threat	lift-check	322
+400	zalo	limiting my own pieces + play on the queenside + play away from the kingside + starting something new	stiff-queenside	719
+401	valo	queens off the board + an invasion of the enemy camp + the seventh rank + a rook move	queenless-invasion	1268
+402	thalo	queens off the board + an endgame + a rook move + an open file	queenless-endgame	1553
+403	shalo	a bishop move + calm pawns + escaping an attack + piece play	bishop-escape	1831
+404	jalo	escaping an attack	escape	2432
+405	zelo	a bishop move + play on the queenside + play away from the kingside + an invasion of the enemy camp	bishop-queenside	935
+406	velo	an invasion of the enemy camp + a check + a threat + a bishop move	invasion-check	2064
+407	thelo	an invasion of the enemy camp + a check + the seventh rank + a bishop move	invasion-check	2759
+408	shelo	the king stays put + an invasion of the enemy camp + a bishop move + a check	invasion-bishop	2905
+409	jelo	escaping an attack	escape	2620
+410	zilo	confidence of winning + an invasion of the enemy camp + a threat + the king stays put	hope-invasion	1051
+411	vilo	an invasion of the enemy camp + a threat + a check + the seventh rank	invasion-threat	2094
+412	thilo	a check + a threat + an invasion of the enemy camp + an exposed enemy king	check-threat	2528
+413	shilo	an exposed enemy king + a check + a threat + an invasion of the enemy camp	hunt-check	2484
+414	jilo	escaping an attack + a check	escape-check	1799
+415	zolo	more space + an isolated pawn + doubled pawns + a passed pawn	space-isolani	1183
+416	volo	an invasion of the enemy camp + a threat + a capture + a check	invasion-threat	1878
+417	tholo	an exposed enemy king + a threat + a check + an invasion of the enemy camp	hunt-threat	2033
+418	sholo	a check + an exposed enemy king + a threat + an invasion of the enemy camp	check-hunt	1780
+419	jolo	a threat + a check + play on the kingside + a retreat	threat-check	1064
+420	zulo	a pawn move + doubled pawns + a recapture + an isolated pawn	pawn-doubled	2644
+421	vulo	doubled pawns + a pawn move + a pawn storm + a passed pawn	doubled-pawn	1704
+422	thulo	doubled pawns + more space + a pawn storm + a threat	doubled-space	1030
+423	shulo	a check + a threat + a sacrifice + the engine's taste	check-threat	651
+424	julo	development + an uncastled king + a knight move + play on the kingside	develop-king-center	708
+425	zamo	play on the queenside + play away from the kingside + a quiet move	queenside-quiet	798
+426	vamo	queens off the board + a rook move + an open file + the seventh rank	queenless-rook	1684
+427	thamo	queens off the board + a rook move + an endgame + an open file	queenless-rook	2481
+428	shamo	a rook move + calm pawns + many good options + queens off the board	rook-options	2436
+429	jamo	an experienced player's idea + a knight on the rim + a bishop move + a knight move	experience-rim	1791
+430	zemo	play on the queenside + play away from the kingside + a passed pawn	queenside-runner	1135
+431	vemo	an invasion of the enemy camp + a free hand + starting something new + no free material	invasion-free-hand	2904
+432	themo	a free hand + an invasion of the enemy camp + no free material + many good options	free-hand-invasion	4533
+433	shemo	a free hand + the king stays put + no free material + an invasion of the enemy camp	free-hand-invasion	4467
+434	jemo	an experienced player's idea + piece play + a free hand + escaping an attack	experience-pieces	2903
+435	zimo	more space + a promotion + a passed pawn + play on the queenside	space-crown	1412
+436	vimo	material advantage + a free hand + a beginner's idea + the king stays put	plenty-free-hand	3079
+437	thimo	a beginner's idea + a free hand + no free material + the king stays put	beginner-free-hand	4247
+438	shimo	material advantage + a free hand + the king stays put + many good options	plenty-free-hand	4224
+439	jimo	play off-center + material advantage + play on the kingside + an exposed enemy king	flank-plenty	2317
+440	zomo	an isolated pawn + more space + a passed pawn + a pawn break	isolani-space	1467
+441	vomo	a passed pawn + more space + a pawn break + an isolated pawn	runner-space	2847
+442	thomo	trapping a piece + a threat + a free hand + more space	trap-threat	3299
+443	shomo	a threat + an exposed enemy king + a check + the king stays put	threat-hunt	2890
+444	jomo	a fianchetto + play on the kingside	fianchetto-kingside	1538
+445	zumo	a pawn move + doubled pawns + a passed pawn + an isolated pawn	pawn-doubled	1387
+446	vumo	doubled pawns + more space + a pawn move + a passed pawn	doubled-space	1823
+447	thumo	more space + doubled pawns + a pawn storm + a passed pawn	space-doubled	1490
+448	shumo	more space + a check + play on the kingside + a threat	space-check	969
+449	jumo	play on the kingside + material advantage + a single saving move + the engine's taste	kingside-plenty	443
+450	zado	play on the queenside + play away from the kingside + a quiet move	queenside-quiet	824
+451	vado	an open file + a rook move + many good options + starting something new	file-rook	1605
+452	thado	many good options + a rook move + an open file + starting something new	options-rook	2479
+453	shado	a safe king + many good options + development + starting something new	shelter-options	2446
+454	jado	a 2000 player's idea + an experienced player's idea + a castled king + many good options	expert-experience	1420
+455	zedo	play on the queenside + play away from the kingside + no free material + a quiet move	queenside-quiet	1399
+456	vedo	many good options + no free material + a free hand + a safe king	options-free-hand	3555
+457	thedo	many good options + no free material + starting something new + a quiet move	options-initiative	5383
+458	shedo	starting something new + material advantage + a quiet move + no free material	initiative-plenty	5302
+459	jedo	an experienced player's idea + a safe king + many good options + a knight move	experience-shelter	3203
+460	zido	an isolated pawn + a passed pawn + more space + a pawn move	isolani-runner	1854
+461	vido	no free material + a free hand + starting something new + many good options	free-hand-initiative	4114
+462	thido	no free material + a free hand + starting something new + a quiet move	free-hand-initiative	5894
+463	shido	a free hand + no free material + starting something new + a quiet move	free-hand-initiative	5863
+464	jido	play on the kingside + a knight move + a free hand + many good options	kingside-knight	3352
+465	zodo	a passed pawn + more space + a pawn break + a pawn move	runner-space	1705
+466	vodo	a pawn break + more space + a passed pawn + a pawn move	break-space	3581
+467	thodo	no free material + more space + starting something new + a quiet move	space-initiative	4675
+468	shodo	starting something new + no free material + a quiet move + play on the kingside	initiative-quiet	4350
+469	jodo	play on the kingside + development + a knight move + starting something new	kingside-develop	2340
+470	zudo	a pawn move + a passed pawn + a pawn break	pawn-runner	1038
+471	vudo	a pawn break + a central square + more space + a pawn move	break-hub	1896
+472	thudo	a pawn storm + more space + a central square + a pawn break	storm-space	2058
+473	shudo	more space + a quiet move + a pawn break + no free material	space-quiet	1527
+474	judo	a strong player's idea + play on the kingside + starting something new + a quiet move	mastery-kingside	752
+475	zago	mobility + an uncastled king + play away from the kingside + play on the queenside	freedom-king-center	1018
+476	vago	many good options + development + starting something new + a quiet move	options-develop	1050
+477	thago	development + a knight move + an uncastled king + many good options	develop-knight	1480
+478	shago	development + a knight move + many good options + an uncastled king	develop-knight	1198
+479	jago	a knight move + a double check	knight-double-check	609
+480	zego	an uncastled king + play away from the kingside + a pawn move + play on the queenside	king-center-pawn	2241
+481	vego	many good options + starting something new + no free material + a quiet move	options-initiative	2866
+482	thego	development + many good options + starting something new + a quiet move	develop-options	3180
+483	shego	starting something new + a knight move + no free material + a free hand	initiative-knight	2744
+484	jego	a knight move + an experienced player's idea + a castled king + many good options	knight-experience	1536
+485	zigo	play away from the kingside + a pawn move + play on the queenside + a quiet move	pawn-queenside	2294
+486	vigo	many good options + starting something new + no free material + a quiet move	options-initiative	3665
+487	thigo	starting something new + many good options + a quiet move + no free material	initiative-options	4161
+488	shigo	starting something new + a safe king + many good options + a quiet move	initiative-shelter	3908
+489	jigo	a knight move + an experienced player's idea + many good options + play on the kingside	knight-experience	1903
+490	zogo	a pawn move + a pawn break + starting something new + a quiet move	pawn-break	1613
+491	vogo	a pawn move + a pawn break + many good options + starting something new	pawn-break	2964
+492	thogo	no free material + a quiet move + starting something new + staying at home	quiet-initiative	3583
+493	shogo	many good options + a quiet move + no free material + starting something new	options-quiet	3473
+494	jogo	play on the kingside + many good options + starting something new + no free material	kingside-options	1779
+495	zugo	a pawn break + a pawn move + a pawn storm	break-pawn	996
+496	vugo	a pawn move + a central square + a pawn break + a pawn storm	pawn-hub	1684
+497	thugo	a pawn break + a pawn move + a pawn storm + starting something new	break-pawn	1934
+498	shugo	a pawn storm + play on the kingside + a quiet move + starting something new	storm-kingside	1658
+499	jugo	play on the kingside + an active king + answering a check + a king move	kingside-king-march	830
+500	zaru	a bishop move + a fork + a mating blow + confidence of winning	bishop-fork	522
+501	varu	a mating blow + the seventh rank + a bishop move + an invasion of the enemy camp	mate-seventh	787
+502	tharu	a bishop move + a recapture + grabbing a loose piece + a long diagonal	bishop-recapture	1240
+503	sharu	a bishop move + a long diagonal + a recapture + play away from the kingside	bishop-diagonal	2150
+504	jaru	escaping an attack	escape	3439
+505	zeru	a bishop move + a long diagonal + confidence of winning + a threat	bishop-diagonal	678
+506	veru	a bishop move + confidence of winning + an invasion of the enemy camp + the seventh rank	bishop-hope	1153
+507	theru	a check + an invasion of the enemy camp + confidence of winning + a bishop move	check-invasion	1538
+508	sheru	a bishop move + a check + a threat + an invasion of the enemy camp	bishop-check	2122
+509	jeru	a retreat + escaping an attack	retreat-escape	2235
+510	ziru	confidence of winning + a bishop move + a fork + a game she goes on to win	hope-bishop	570
+511	viru	confidence of winning + a check + a threat + an invasion of the enemy camp	hope-check	1094
+512	thiru	a check + confidence of winning + an invasion of the enemy camp + a threat	check-hope	1325
+513	shiru	a check + confidence of winning + an invasion of the enemy camp + an exposed enemy king	check-hope	1565
+514	jiru	a check + a mating blow + a retreat + a threat	check-mate	1443
+515	zoru	a promotion + confidence of winning + a passed pawn + a mating blow	crown-hope	508
+516	voru	confidence of winning + a check + an invasion of the enemy camp + a threat	hope-check	916
+517	thoru	a check + a mating blow + confidence of winning + an invasion of the enemy camp	check-mate	1095
+518	shoru	a check + a mating blow + confidence of winning + an invasion of the enemy camp	check-mate	1297
+519	joru	a mating blow + a check + play on the kingside + confidence of winning	mate-check	1155
+520	zuru	a promotion + a pawn move + a passed pawn + a recapture	crown-pawn	1300
+521	vuru	a promotion + a mating blow + confidence of winning + a passed pawn	crown-mate	715
+522	thuru	a mating blow + a check + confidence of winning	mate-check	702
+523	shuru	a mating blow + a check + confidence of winning	mate-check	666
+524	juru	a mating blow + a check	mate-check	349
+525	zalu	trapping a piece + a bishop move + play away from the kingside + play on the queenside	trap-bishop	833
+526	valu	the seventh rank + a bishop move + an invasion of the enemy camp + the king stays put	seventh-bishop	1432
+527	thalu	a bishop move + play away from the kingside + a recapture + the king stays put	bishop-recapture	2339
+528	shalu	a recapture + a long diagonal + a bishop move + grabbing a loose piece	recapture-diagonal	3544
+529	jalu	a knight move + escaping an attack	knight-escape	3618
+530	zelu	an invasion of the enemy camp + confidence of winning + a threat + a bishop move	invasion-hope	1091
+531	velu	a bishop move + confidence of winning + an invasion of the enemy camp + the king stays put	bishop-hope	2473
+532	thelu	the seventh rank + a recapture + an invasion of the enemy camp + the king stays put	seventh-recapture	3594
+533	shelu	a recapture + a central square + a threat + a capture	recapture-hub	4201
+534	jelu	a knight move + escaping an attack + the king stays put	knight-escape	2953
+535	zilu	more space + a passed pawn + confidence of winning + an invasion of the enemy camp	space-runner	950
+536	vilu	confidence of winning + an invasion of the enemy camp + a passed pawn + the king stays put	hope-invasion	2117
+537	thilu	a threat + an invasion of the enemy camp + a check + an exposed enemy king	threat-invasion	2804
+538	shilu	a check + a threat + an exposed enemy king + an invasion of the enemy camp	check-threat	2954
+539	jilu	an exposed enemy king + play on the kingside + a threat + a check	hunt-kingside	1922
+540	zolu	a promotion + a passed pawn + confidence of winning + more space	crown-runner	894
+541	volu	a promotion + confidence of winning + a passed pawn + an invasion of the enemy camp	crown-hope	1627
+542	tholu	an exposed enemy king + confidence of winning + a threat + a check	hunt-hope	1945
+543	sholu	an exposed enemy king + a check + a threat + confidence of winning	hunt-check	1990
+544	jolu	play on the kingside + an exposed enemy king + play off-center + a single saving move	kingside-hunt	1170
+545	zulu	a passed pawn + a promotion + a pawn move	runner-crown	1076
+546	vulu	a passed pawn + a promotion + a pawn move + confidence of winning	runner-crown	1042
+547	thulu	confidence of winning + more space + a passed pawn + a double check	hope-space	921
+548	shulu	a double check + an exposed enemy king + trapping a piece + confidence of winning	double-check-hunt	754
+549	julu	making luft + play on the kingside + play off-center + confidence of winning	luft-kingside	443
+550	zamu	play on the queenside + starting something new + play away from the kingside + no free material	queenside-initiative	687
+551	vamu	a safe king + development + play away from the kingside + play on the queenside	shelter-develop	1679
+552	thamu	a safe king + play away from the kingside + the king stays put + confidence of winning	shelter-hope	2976
+553	shamu	a full board + play away from the kingside + a safe king + the king stays put	middlegame-shelter	4172
+554	jamu	an experienced player's idea + a knight move + a strong player's idea + many good options	experience-knight	2176
+555	zemu	material advantage + confidence of winning + starting something new + play on the queenside	plenty-hope	1096
+556	vemu	material advantage + the king stays put + confidence of winning + a free hand	plenty-hope	2794
+557	themu	the king stays put + a free hand + a castled king + confidence of winning	free-hand-castled	4692
+558	shemu	the king stays put + a free hand + a threat + a safe king	free-hand-threat	4748
+559	jemu	a knight move + material advantage + an exposed enemy king + a free hand	knight-plenty	2140
+560	zimu	a passed pawn + more space + a promotion + confidence of winning	runner-space	1164
+561	vimu	confidence of winning + a threat + an invasion of the enemy camp + a free hand	hope-threat	2505
+562	thimu	an invasion of the enemy camp + a castled king + an isolated pawn + confidence of winning	invasion-castled	3847
+563	shimu	the king stays put + a free hand + confidence of winning + doubled pawns	free-hand-hope	4006
+564	jimu	a fianchetto + play on the kingside + confidence of winning + the king stays put	fianchetto-kingside	1910
+565	zomu	a passed pawn + more space + confidence of winning + an isolated pawn	runner-space	1073
+566	vomu	a passed pawn + a promotion + an isolated pawn + confidence of winning	runner-crown	2131
+567	thomu	a passed pawn + confidence of winning + more space + a free hand	runner-hope	2888
+568	shomu	an exposed enemy king + play on the kingside + confidence of winning + more space	hunt-kingside	2800
+569	jomu	a fianchetto + play on the kingside + confidence of winning + play away from the queenside	fianchetto-kingside	1285
+570	zumu	a passed pawn + a pawn move + more space + a promotion	runner-pawn	879
+571	vumu	a passed pawn + a pawn move + a promotion + more space	runner-pawn	1268
+572	thumu	a passed pawn + more space + confidence of winning + a pawn storm	runner-space	1287
+573	shumu	making luft + more space + an exposed enemy king + play on the kingside	luft-space	1012
+574	jumu	material advantage + an exposed enemy king + a knight move + play on the kingside	plenty-hunt	462
+575	zadu	play on the queenside + play away from the kingside + a quiet move	queenside-quiet	700
+576	vadu	development + a safe king + many good options + play away from the kingside	develop-shelter	1617
+577	thadu	a full board + queens still on the board + a safe king + development	middlegame-queens	3128
+578	shadu	a full board + queens still on the board + a safe king + development	middlegame-queens	3889
+579	jadu	a knight move + queens still on the board + an experienced player's idea + a full board	knight-queens	1870
+580	zedu	many good options + play on the queenside + starting something new + play away from the kingside	options-queenside	1231
+581	vedu	a safe king + the king stays put + a free hand + starting something new	shelter-free-hand	2982
+582	thedu	a full board + a safe king + the king stays put + many good options	middlegame-shelter	4365
+583	shedu	material advantage + a safe king + the king stays put + a free hand	plenty-shelter	3836
+584	jedu	a 2000 player's idea + a knight move + material advantage + an experienced player's idea	expert-knight	1887
+585	zidu	a passed pawn + more space + a pawn move + play on the queenside	runner-space	1387
+586	vidu	a free hand + no free material + a safe king + many good options	free-hand-shelter	2799
+587	thidu	a safe king + a free hand + starting something new + a castled king	shelter-free-hand	3822
+588	shidu	a free hand + a safe king + starting something new + ignoring an attack	free-hand-shelter	3654
+589	jidu	an experienced player's idea + play on the kingside + a knight move + a safe king	experience-kingside	1819
+590	zodu	a passed pawn + more space + an isolated pawn + a pawn move	runner-space	1308
+591	vodu	more space + a passed pawn + an isolated pawn + a pawn move	space-runner	2225
+592	thodu	more space + a passed pawn + a pawn move + a free hand	space-runner	2867
+593	shodu	play on the kingside + starting something new + a quiet move + no free material	kingside-initiative	2968
+594	jodu	play on the kingside + starting something new + many good options + no free material	kingside-initiative	1681
+595	zudu	a pawn move + a passed pawn + a pawn break + a pawn storm	pawn-runner	1114
+596	vudu	a pawn storm + a pawn move + more space + a central square	storm-pawn	1525
+597	thudu	more space + a pawn storm + a central square + a passed pawn	space-storm	1549
+598	shudu	a pawn storm + more space + a pawn move + play on the kingside	storm-space	1353
+599	judu	a strong player's idea + play off-center + play on the kingside + a pawn storm	mastery-flank	719
+600	zagu	development + an uncastled king + a full board + play away from the kingside	develop-king-center	832
+601	vagu	development + a full board + an uncastled king + queens still on the board	develop-middlegame	979
+602	thagu	an uncastled king + development + a full board + mobility	king-center-develop	2365
+603	shagu	development + an uncastled king + a full board + mobility	develop-king-center	2505
+604	jagu	a knight move + development + an uncastled king	knight-develop	1214
+605	zegu	development + a full board + an uncastled king + many good options	develop-middlegame	1583
+606	vegu	a full board + development + queens still on the board + many good options	middlegame-develop	2349
+607	thegu	development + a safe king + a full board + a knight move	develop-shelter	1910
+608	shegu	a knight move + a safe king + development + a full board	knight-shelter	1577
+609	jegu	a knight move	knight	1030
+610	zigu	a pawn break + a pawn move + a safe king + a quiet move	break-pawn	1752
+611	vigu	a safe king + development + starting something new + a quiet move	shelter-develop	2289
+612	thigu	no free material + starting something new + many good options + a quiet move	initiative-options	1751
+613	shigu	a knight move + starting something new + a safe king + many good options	knight-initiative	1742
+614	jigu	a knight move + a knight on the rim + an experienced player's idea + many good options	knight-rim	1105
+615	zogu	a pawn move + a pawn break + a quiet move + ignoring an attack	pawn-break	1715
+616	vogu	making luft + a pawn move + a pawn storm + many good options	luft-pawn	1513
+617	thogu	a pawn storm + going forward + starting something new + a pawn move	storm-advance	1539
+618	shogu	a pawn storm + a pawn move + starting something new + play on the kingside	storm-pawn	1729
+619	jogu	play on the kingside + a knight move + many good options + staying at home	kingside-knight	1226
+620	zugu	a pawn move + a pawn break + a pawn storm	pawn-break	1736
+621	vugu	a pawn move + a pawn storm + a central square + a quiet move	pawn-storm	1071
+622	thugu	a pawn storm + a central square + a pawn move + starting something new	storm-hub	1252
+623	shugu	a pawn move + a pawn storm + an uncastled king + a quiet move	pawn-storm	1634
+624	jugu	a pawn storm + an uncastled king + play on the kingside + a pawn move	storm-king-center	849
